@@ -1,0 +1,161 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR06P0.xml'>
+<question type="multichoice" passage-file="ASR06P1.xml" skills="1">
+      <question-text>The word <bg>blast</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>collapse</answer-text>
+         <answer-text>display</answer-text>
+         <answer-text><exp>explosion</exp></answer-text>
+         <answer-text>power</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>a brilliant bluish-white fireball</exp> and states that <exp>it exploded</exp> and that <exp>the blast was heard 1,000 kilometers away</exp>.  From this context, it can be determined that <exp>blast</exp> is closest in meaning to <exp>explosion</exp>.  The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ASR06P2.xml' skills='4'>
+<insert-text><b><exp>There was so much haze</exp> that it could even be seen by astronomers on the other side of the world.</b></insert-text>
+<key>4</key>
+<explain-text>
+The passage mentions <exp>a glowing reddish haze</exp>.  A sentence stating that <exp>there was so much haze</exp> would logically follow such an idea.  The last square in paragraph 1 is therefore the best answer to this question.
+</explain-text>
+</question>      
+<question type="multichoice" passage-file="ASR06P3.xml" skills="2">
+      <question-text>The word <bg>it</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+         <answer-text><exp>an expedition</exp></answer-text>
+         <answer-text>search</answer-text>
+         <answer-text>the site</answer-text>
+         <answer-text>the blast</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>when an expedition finally went in search of the site of the blast, it found that the blast had occurred</exp>.  From this context, it can be determined that <exp>it</exp> refers to <exp>an expedition</exp>.  The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>  
+<question type="multichoice" passage-file="ASR06P4.xml" skills="1">
+      <question-text>The word <bg>radially</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>like the rings in a tree</answer-text>
+         <answer-text><exp>like the spokes of a wheel</exp></answer-text>
+         <answer-text>like the corners of a square</answer-text>
+         <answer-text>like the fingers on a hand</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the remaining trees had been flattened radially away from the center of the blast</exp>.  From this context, it can be determined that <exp>radially</exp> is closest in meaning to <exp>like the spokes of a wheel</exp>.  The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>  
+<question type="multichoice" passage-file="ASR06P5.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2?</question-text>
+      <answer-list>
+         <answer-text>Because branchless trees were still standing where they were located, investigators determined that the point of impact must be at least a few kilometers away.</answer-text>
+         <answer-text>Because <exp>there was no apparent crater at the center of the blast area</exp>, <exp>it was concluded that the explosion took place above the surface of the Earth</exp>.</answer-text>
+         <answer-text>Because there was no visible crater, a conclusion was drawn that whatever had exploded had buried itself deep in the ground.</answer-text>
+         <answer-text>When viewed from above the ground at a distance of several kilometers, the amazing results of the impact could clearly be seen.</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The highlighted sentence states that <exp>no discernible crater was in evidence</exp>, which means that <exp>there was no apparent crater at the center of the blast area</exp>, and that <exp>it was concluded that a huge explosion must have taken place at least a few kilometers above the blast area</exp>, which means that <exp>it was concluded that the explosion took place above the surface of the Earth</exp>.  The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ASR06P6.xml" skills="2">
+      <question-text>The word <bg>it</bg> in paragraph 3 refers to</question-text>
+      <answer-list>
+         <answer-text><exp>the event</exp></answer-text>
+         <answer-text>Tunguska</answer-text>
+         <answer-text>a number</answer-text>
+         <answer-text>one hypothesis</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the event at Tunguska was so unusual</exp> and mentions <exp>hypotheses&#8230;to explain it</exp>.  From this context, it can be determined that <exp>it</exp> refers to <exp>the event</exp>.  The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ASR06P7.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text>The main hypothesis was that an enemy airforce from another country was attempting to land near a nuclear reactor.</answer-text>
+         <answer-text>No one believed that an alien spaceship could have been the cause of the huge explosion.</answer-text>
+         <answer-text>One hypothesis was that the huge explosion resulted from problems with a nuclear reactor.</answer-text>
+         <answer-text><exp>Some people believed that the explosion occurred when a ship from outer space had mechanical problems.</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The highlighted sentence states that <exp>one hypothesis was that an alien spaceship</exp> with <exp>a malfunctioning nuclear reactor&#8230;exploded</exp>, which means that <exp>some people believed that the explosion occurred when a ship from outer space had mechanical problems</exp>.  The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>  
+<question type="multichoice" passage-file="ASR06P8.xml" skills="2">
+      <question-text>The word <bg>some</bg> in paragraph 4 refers to</question-text>
+      <answer-list>
+         <answer-text><exp>astronomers</exp></answer-text>
+         <answer-text>pieces</answer-text>
+         <answer-text>layers</answer-text>
+         <answer-text>hypotheses</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage mentions <exp>what many astronomers now suspect</exp> and states that <exp>there are some who oppose this view</exp>.  From this context, it can be determined that <exp>some</exp> refers to <exp>astronomers</exp>.  The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ASR06P9.xml" skills="1">
+      <question-text>The phrase <bg>was heading for</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>was topping</answer-text>
+         <answer-text>was leading</answer-text>
+         <answer-text><exp>was approaching</exp></answer-text>
+         <answer-text>was attacking</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>a comet or comet fragment was heading for the Earth</exp>.  From this context, it can be determined that the phrase <exp>was heading for</exp> is closest in meaning to <exp>was approaching</exp>.  The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ASR06P10.xml" skills="2">
+      <question-text>The word <bg>it</bg> in paragraph 4 refers to</question-text>
+      <answer-list>
+         <answer-text>this explanation</answer-text>
+         <answer-text><exp>a comet or comet fragment</exp></answer-text>
+         <answer-text>the Earth</answer-text>
+         <answer-text>the direction</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>a comet or comet fragment was heading for the Earth</exp> and that <exp>it was coming from the direction of the sun</exp>.  From this context, it can be determined that <exp>it</exp> refers to <exp>a comet or comet fragment</exp>.  The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ASR06P11.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 4?</question-text>
+      <answer-list>
+         <answer-text><exp>There are several plausible explanations</exp> as to why <exp>a tail was not visible behind the comet.</exp></answer-text>
+         <answer-text>Even though some people were not able to see a tail on the comet, the comet actually had a rather magnificent tail.</answer-text>
+         <answer-text>The comet had a tail that was only a fragment of the size of a normal tail on a comet.</answer-text>
+         <answer-text>Because the comet was heading away from Earth, the tail was hidden behind various fragments in the sky.
+</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The highlighted sentence states that <exp>a characteristic tail was not seen following the comet</exp>, which means that <exp>a tail was not visible behind the comet</exp> and that <exp>this could have been either because&#8230;, because&#8230;, or because&#8230;,</exp>  which means that <exp>there are several plausible explanations</exp>.  The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>    
+<question type="multichoice" passage-file="ASR06P12.xml" skills="1">
+      <question-text>The word <bg>establishes</bg> in paragraph 4 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>founds</answer-text>
+         <answer-text>creates</answer-text>
+         <answer-text>owns</answer-text>
+         <answer-text><exp>supports</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage mentions <exp>something that further establishes the validity of the hypothesis</exp>.  From this context, it can be determined that <exp>establishes</exp> could best be replaced by <exp>supports</exp>.  The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>    
+<question type='insert' passage-file='ASR06P13.xml' skills='4'>
+<insert-text><b><exp>One hypothesis, however, is now more widely accepted</exp>.</b></insert-text>
+<key>1</key>
+<explain-text>
+The first sentence of the third paragraph states that <exp>a number of bizarre hypotheses have been proposed</exp>, and the first sentence of the fourth paragraph starts with <exp>what many astronomers now suspect</exp>.  From this, it can be determined that a sentence stating that <exp>one hypothesis, however, is now more widely accepted</exp> would logically be used to introduce the fourth paragraph and serve as a transition between the ideas in the third and fourth paragraphs.  The first square in paragraph 4 is therefore the best answer to this question.
+</explain-text>
+</question>    
+</question-list>    

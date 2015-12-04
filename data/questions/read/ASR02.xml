@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR02P0.xml">
+   <question type="multichoice" passage-file="ASR02P1.xml" skills="2">
+      <question-text>The word <bg>they</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+      <answer-text>pencils</answer-text>
+      <answer-text>diamonds</answer-text>
+      <answer-text>
+         <exp>carbon atoms</exp>
+      </answer-text>
+      <answer-text>temperatures</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>The passage states that <exp>the carbon atoms in diamonds are much more tightly packed and more strongly bonded than they are in graphite</exp>.  From this context, it can be determined that <exp>they</exp> refers to <exp>carbon atoms</exp>.  The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P2.xml" skills="1">
+      <question-text>The word <bg>molten</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+      <answer-text>evaporated</answer-text>
+      <answer-text>heated</answer-text>
+      <answer-text>metallic</answer-text>
+      <answer-text>
+         <exp>melted</exp>
+      </answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>The passage mentions <exp>the earth's mantle, the layer of partially molten material between the earth's core and its outer crust</exp> and <exp>the extremely high temperatures</exp>. From this context, it can be determined that <exp>molten</exp> is closest in meaning to <exp>melted</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P3.xml" skills="1">
+      <question-text>The phrase <bg>up to</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+      <answer-text>more than</answer-text>
+      <answer-text>
+         <exp>as high as</exp>
+      </answer-text>
+      <answer-text>slightly over</answer-text>
+      <answer-text>not less than</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>The passage mentions <exp>high temperatures of up to 2,100&#0186; C</exp>. From this context, it can be determined that <exp>up to</exp> is closest in meaning to <exp>as high as</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P4.xml" skills="2">
+      <question-text>The word <bg>they</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+      <answer-text>
+         <exp>natural diamonds</exp>
+      </answer-text>
+      <answer-text>
+         great depths
+</answer-text>
+      <answer-text>geological formations</answer-text>
+      <answer-text>diamond pipes</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>The passage states that <exp>though natural diamonds are created at great depths&#8230;, they are brought much closer to the surface</exp>. From this context, it can be determined that <exp>they</exp> refers to <exp>natural diamonds</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P5.xml" skills="2">
+   <question-text>The word <bg>that</bg> in paragraph 2 refers to</question-text>
+   <answer-list>
+      <answer-text>diamond pipes</answer-text>
+      <answer-text>
+         <exp>cylindrical intrusions</exp>
+      </answer-text>
+      <answer-text>molten material</answer-text>
+      <answer-text>geological formations</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>The passage mentions <exp>cylindrical intrusions&#8230;that are somewhat similar to the geological formations</exp>. From this context, it can be determined that <exp>that</exp> refers to <exp>cylindrical intrusions</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P6.xml" skills="1">
+   <question-text>The word <bg>conduits</bg> in paragraph 2 is closest in meaning to</question-text>
+   <answer-list>
+      <answer-text>furnaces</answer-text>
+      <answer-text>nutrients</answer-text>
+      <answer-text>
+         <exp>pathways</exp>
+      </answer-text>
+      <answer-text>receptacles</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>The passage mentions <exp>the resemblance of diamond pipes to the feeder pipes that serve as conduits for molten lava from the earth's mantle to active volcanoes on the surface</exp>. From this context, it can be determined that <exp>conduits</exp> is closest in meaning to <exp>pathways</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P7.xml" skills="1">
+   <question-text>The phrase <bg>not unexpected</bg> in paragraph 2 is closest in meaning to</question-text>
+   <answer-list>
+      <answer-text>imagined</answer-text>
+      <answer-text>
+         <exp>anticipated</exp>
+      </answer-text>
+      <answer-text>surprised</answer-text>
+      <answer-text>fascinated</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>The passage states that <exp>the resemblance&#8230;is not unexpected</exp>. From this context, it can be determined that the phrase <exp>not unexpected</exp> is closest in meaning to <exp>anticipated</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P8.xml" skills="1">
+      <question-text>The word <bg>eons</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+      <answer-text>defined periods</answer-text>
+      <answer-text>known quantities</answer-text>
+      <answer-text>few centuries</answer-text>
+      <answer-text>
+         <exp>great lengths</exp>
+      </answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>The passage mentions <exp>ancient volcanoes that erupted between 80 million and 120 million years ago</exp> and <exp>the eons of time that have passed since the volcanoes were active</exp>. From this context, it can be determined that <exp>eons</exp> is closest in meaning to <exp>great lengths</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P9.xml" skills="1">
+      <question-text>The word <bg>wealth</bg> in paragraph 3 could best be replaced by</question-text>
+      <answer-list>
+      <answer-text>prosperity</answer-text>
+      <answer-text>high cost</answer-text>
+      <answer-text>affluence</answer-text>
+      <answer-text>
+         <exp>huge amount</exp>
+      </answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>The passage mentions <exp>the wealth of information</exp>. From this context, it can be determined that <exp>wealth</exp> could best be replaced by <exp>huge amount</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P10.xml" skills="1">
+      <question-text>The word <bg>heart</bg> in paragraph 3 could best be replaced by</question-text>
+      <answer-list>
+      <answer-text>
+         <exp>center</exp>
+      </answer-text>
+      <answer-text>organ</answer-text>
+      <answer-text>love</answer-text>
+      <answer-text>body</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>The passage mentions <exp>the heart of the region</exp>.  From this context, it can be determined that <exp>heart</exp> could best be replaced by <exp>center</exp>.  The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P11.xml" skills="2">
+      <question-text>The word <bg>it</bg> in paragraph 3 refers to</question-text>
+       <answer-list>
+      <answer-text>importance</answer-text>
+      <answer-text>
+         <exp>kimberlite</exp>
+      </answer-text>
+      <answer-text>a miner</answer-text>
+      <answer-text>a geologist</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>The passage states that <exp>the importance of kimberlite to a miner is that it is known to hold diamonds.</exp> From this context, it can be determined that <exp>it</exp> refers to <exp>kimberlite</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P12.xml" skills="1">
+      <question-text>The word <bg>workings</bg> in paragraph 3 could best be replaced by</question-text>
+      <answer-list>
+      <answer-text>finishing</answer-text>
+      <answer-text>efforts</answer-text>
+      <answer-text>
+         <exp>functioning</exp>
+      </answer-text>
+      <answer-text>labor</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>The passage mentions <exp>the inner workings of depths of the earth</exp>. From this context, it can be determined that <exp>workings</exp> could best be replaced by <exp>functioning</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type="multichoice" passage-file="ASR02P13.xml" skills="2">
+      <question-text>The word <bg>them</bg> in paragraph 3 refers to</question-text>
+      <answer-list>
+      <answer-text>
+         <exp>geologists</exp>
+      </answer-text>
+      <answer-text>clues</answer-text>
+      <answer-text>workings</answer-text>
+      <answer-text>depths</answer-text>
+       </answer-list>
+      <key>1</key>
+      <explain-text>The passage states that <exp>geologists can find clues&#8230;that are otherwise inaccessible to them</exp>. From this context, it can be determined that <exp>them</exp> refers to <exp>geologists</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+</question-list>

@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR05P0.xml'>
+<question type="multichoice" passage-file="ASR05P1.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1?</question-text>
+      <answer-list>
+         <answer-text><exp>Jefferson differed considerably from the two presidents that preceded him.</exp></answer-text>
+         <answer-text>When Jefferson became president, he attempted to move politically toward the ideas of the first two presidents.</answer-text>
+         <answer-text>Both Jefferson and John Adams were tremendously different from George Washington in how they handled the presidency.</answer-text>
+         <answer-text>George Washington and John Adams continued to fight with Thomas Jefferson over his political philosophy and style throughout his presidency.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The highlighted sentence mentions <exp>Thomas Jefferson, the third president&#8230;with a marked difference from his two Federalist predecessors,</exp> which means that <exp>Jefferson differed considerably from the two presidents that preceded him</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ASR05P2.xml' skills='4'>
+<insert-text><b><exp>He chose to do this rather than riding</exp> in an elaborate carriage flanked by an elaborate honor guard, as his two predecessors had.</b></insert-text>
+<key>3</key>
+<explain-text>
+The passage mentions <exp>Jefferson&#8230;choosing to walk to his inauguration</exp>. A sentence stating that <exp>he chose to do this rather than riding</exp> would logically follow such a sentence. The third square in paragraph 1 is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type="multichoice" passage-file="ASR05P3.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2?</question-text>
+      <answer-list>
+         <answer-text>After working in a factory in England, Jefferson was quite aware of the poor working conditions there.</answer-text>
+         <answer-text>Jefferson believed that an improved factory system should be instituted.</answer-text>
+         <answer-text>Jefferson was interested in improving the lives of the factory workers who had immigrated to America from England.</answer-text>
+         <answer-text>Because of <exp>what he had seen in England</exp>, <exp>Jefferson did not want a similar factory system</exp> in the United States.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The highlighted sentence states that <exp>he was opposed to the development of the factory system</exp>, which means that <exp>Jefferson did not want a similar factory system</exp>, and that he had <exp>witnessed...conditions...in England</exp>, which refers to <exp>what he had seen in England</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ASR05P4.xml' skills='4'>
+<insert-text><b><exp>He was adamant in his opposition</exp> because of the type of society he felt that industrialization would create.</b></insert-text>
+<key>3</key>
+<explain-text>
+The passage states that <exp>he was opposed to the development of the factory system</exp>. A sentence stating that <exp>he was adamant in his opposition</exp> would logically follow such a sentence. The third square in paragraph 2 is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type="multichoice" passage-file="ASR05P5.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text>Jefferson believed that it was impossible for farmers to create a republic.</answer-text>
+         <answer-text><exp>Jefferson believed</exp> that <exp>the United States should be a country based on farming.</exp></answer-text>
+         <answer-text>Jefferson believed that it was better to have an agrarian economy than a republic.</answer-text>
+         <answer-text>Jefferson believed that, for the young country to mature, it needed to move away from its agrarian base.</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The highlighted sentence mentions <exp>the core of Jefferson's beliefs</exp>, which means that <exp>Jefferson believed</exp>, and states that <exp>the best way for the young United States&#8230;was as an agrarian republic</exp>, which means that <exp>the United States should be a country based on farming</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ASR05P6.xml' skills='4'>
+<insert-text><b>Strongly believing that <exp>industrialization</exp> was not the best direction for the United States to take, Jefferson envisioned <exp>a very different path</exp>.</b></insert-text>
+<key>1</key>
+<explain-text>
+The last sentence of paragraph 2 mentions <exp>an industrialized society</exp>, and the first sentence of paragraph 3 mentions <exp>an agrarian republic</exp>. A sentence that mentions <exp>industrialization</exp> and <exp>a very different path</exp> would logically come between these two sentences. The first square in paragraph 3 is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type="multichoice" passage-file="ASR05P7.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 4?</question-text>
+      <answer-list>
+         <answer-text>Jefferson agreed with the ideas in the essay, saying that it was the role of a strong country to feed its population.</answer-text>
+         <answer-text>Jefferson was alarmed to learn that the country was having difficulty feeding its population.</answer-text>
+         <answer-text><exp>Jefferson opposed the ideas in the essay</exp>, believing instead <exp>that a country of farmers would always have enough food.</exp></answer-text>
+         <answer-text>Jefferson argued against the essay, suggesting that it was best if the country stopped concentrating too much on expansion.</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The highlighted sentence states that <exp>Jefferson&#8230;countered the alarm raised by the essay</exp>, which means that <exp>Jefferson opposed the ideas in the essay</exp>, and discusses <exp>the idea that the United States would always be able to feed its population if it developed a strong agrarian society</exp>, which refers to his belief <exp>that a country of farmers would always have enough food</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ASR05P8.xml' skills='4'>
+<insert-text><b>This was <exp>a widely read work by Englishman Thomas Maltus</exp>.</b></insert-text>
+<key>1</key>
+<explain-text>
+The passage mentions <exp>"Essay on the Principle of Population."</exp> A sentence mentioning <exp>a widely read work by Englishman Thomas Maltus</exp> would logically follow such a sentence. The first square in paragraph 4 is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type="multichoice" passage-file="ASR05P9.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 5?</question-text>
+      <answer-list>
+         <answer-text>Jefferson wanted to expand the republican government to include more civically oriented citizens.</answer-text>
+         <answer-text><exp>Jefferson's two goals were to expand agriculture and reduce government.</exp></answer-text>
+         <answer-text>Jefferson felt that the federal government should reduce the amount spent on agrarian reform.</answer-text>
+         <answer-text>Jefferson believed that the federal government should be disbanded and that all citizens should be self-governing.
+</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The highlighted sentence states that <exp>his vision was to institute an expanded agrarian republic&#8230;and to reduce the size and scope of the federal government</exp>, which means that <exp>Jefferson's two goals were to expand agriculture and reduce government</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ASR05P10.xml' skills='4'>
+<insert-text><b><exp>It also led to environmental damage</exp> that resulted from a tendency to abandon depleted lands rather than to conserve.</b></insert-text>
+<key>2</key>
+<explain-text>
+The passage states that <exp>the results of the agrarian expansionism&#8230;led to a society in constant motion</exp>. A sentence stating that <exp>it also led to environmental damage</exp> would logically follow such a sentence. The second square in paragraph 5 is therefore the best answer to this question.
+</explain-text>
+</question>   
+</question-list>   

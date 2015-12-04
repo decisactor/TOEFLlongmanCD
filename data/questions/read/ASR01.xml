@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR01P00.xml">
+   
+   <question type="multichoice" passage-file="ASR01P01.xml" skills="2">
+      <question-text>The word <bg>which</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+         <answer-text>availability</answer-text>
+         <answer-text>evidence</answer-text>
+         <answer-text>study</answer-text>
+         <answer-text>
+            <exp>conditions</exp>
+         </answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+            The passage mentions <exp>the natural conditions in which the archeological remains are found.</exp> From this context, it can be determined that <exp>which</exp> refers to <exp>conditions</exp>. The last answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P02.xml" skills="1">
+      <question-text>The word <bg>remains</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>
+            <exp>remnants</exp>
+         </answer-text>
+         <answer-text>studies</answer-text>
+         <answer-text>stays</answer-text>
+         <answer-text>survivors</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+            The passage mentions <exp>the natural conditions in which the archeological remains are found</exp>. From this context, it can be determined that <exp>remains</exp> is closest in meaning to <exp>remnants</exp>. The first answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P03.xml" skills="2">
+      <question-text>The word <bg>themselves</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+         <answer-text>archeological remains</answer-text>
+         <answer-text>
+            <exp>certain types</exp>
+         </answer-text>
+         <answer-text>organic substances</answer-text>
+         <answer-text>organic remains</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+            The passage states that <exp>certain types of natural conditions favor preservation&#8230;and therefore lend themselves to sheltering</exp>. From this context, it can be determined that <exp>themselves</exp> refers to <exp>certain types</exp>. The second answer is therefore the best answer to this question.
+       </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P04.xml" skills="1">
+      <question-text>The word <exp><bg>poor</bg></exp> in paragraph 1 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>needy</answer-text>
+         <answer-text>penniless</answer-text>
+         <answer-text>
+            <exp>inadequate</exp>
+         </answer-text>
+         <answer-text>impoverished</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+            The passage states that <exp>preservation of the organic material&#8230;is quite poor.</exp> From this context, it can be determined that <exp>poor</exp> could best be replaced by <exp>inadequate</exp>. The third answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P05.xml" skills="2">
+      <question-text>The word <bg>those</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+         <answer-text>
+            <exp>sites</exp>
+         </answer-text>
+         <answer-text>lakes</answer-text>
+         <answer-text>swamps</answer-text>
+         <answer-text>marshes</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+            The passage states that <exp>wetland archeological sites are sites such as those found in lakes, swamps, marshes, and bogs</exp>. From this context, it can be determined that <exp>those</exp> refers to <exp>sites</exp>. The first answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P06.xml" skills="1">
+      <question-text>The word <bg>bogs</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>bodies of water</answer-text>
+         <answer-text>deserts</answer-text>
+         <answer-text>
+            <exp>muddy areas</exp>
+         </answer-text>
+         <answer-text>caves</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+            The passage mentions <exp>sites such as those found in lakes, swamps, marshes, and bogs</exp> and later mentions <exp>these wetland archeological sites</exp>. From this context, it can be determined that <exp>bogs</exp> are <exp>muddy areas</exp>. The third answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P07.xml" skills="2">
+      <question-text>The phrase <bg>this type</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+         <answer-text>
+            <exp>textiles, leather, basketry, wood, and plant remains</exp>
+         </answer-text>
+         <answer-text>all kinds</answer-text>
+         <answer-text>waterlogged sites</answer-text>
+         <answer-text>dryland archeological sites</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+            The passage mentions <exp>organic materials, such as textiles, leather, basketry, wood, and plant remains</exp> and later mentions <exp>this type of organic material</exp>. From this context, it can be determined that <exp>this type</exp> refers to <exp>textiles, leather, basketry, wood, and plant remains</exp>. The first answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P08.xml" skills="1">
+      <question-text>The word <bg>rich</bg> in paragraph 2 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>wealthy</answer-text>
+         <answer-text>
+            <exp>substantial</exp>
+         </answer-text>
+         <answer-text>prosperous</answer-text>
+         <answer-text>probable</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+            The passage mentions <exp>rich sources of evidence</exp>. From this context, it can be determined that <exp>rich</exp> could best be replaced by <exp>substantial</exp>. The second answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P09.xml" skills="2">
+      <question-text>The word <bg>they</bg> in paragraph 3 refers to</question-text>
+      <answer-list>
+         <answer-text>human cultures</answer-text>
+         <answer-text>archeological finds</answer-text>
+         <answer-text>waterlogged environments</answer-text>
+         <answer-text>
+            <exp>organic finds</exp>
+         </answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+            The passage states that <exp>organic finds&#8230;deteriorate rapidly when they are removed</exp>. From this context, it can be determined that <exp>they</exp> refers to <exp>organic finds</exp>. The last answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P010.xml" skills="2">
+      <question-text>The word <bg>which</bg> in paragraph 3 refers to</question-text>
+      <answer-list>
+         <answer-text>organic finds</answer-text>
+         <answer-text>wetland environments</answer-text>
+         <answer-text>
+            <exp>huge cost</exp>
+         </answer-text>
+         <answer-text>wetland archeology</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+            The passage mentions the <exp>huge cost&#8230;, which has been estimated to be quadruple the cost</exp>. From this context, it can be determined that <exp>which</exp> refers to <exp>huge cost</exp>. The third answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P11.xml" skills="1">
+      <question-text>The word <bg>quadruple</bg> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>one-quarter</answer-text>
+         <answer-text>four feet</answer-text>
+         <answer-text>four-sided</answer-text>
+         <answer-text>
+            <exp>four times</exp>
+         </answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+            The passage mentions <exp>the huge cost of wetland archeology, which has been estimated to be quadruple the cost of dryland archeology</exp>. From this context, it can be determined that <exp>quadruple</exp> is closest in meaning to <exp>four times</exp>. The last answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P12.xml" skills="1">
+      <question-text>The phrase <bg>kept alive</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>animated</answer-text>
+         <answer-text>
+            <exp>maintained</exp>
+         </answer-text>
+         <answer-text>endured</answer-text>
+         <answer-text>lodged</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+            The passage states that <exp>memories of the village were kept alive by descendants</exp>. From this context, it can be determined that <exp>kept alive</exp> is closest in meaning to <exp>maintained</exp>. The second answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P13.xml" skills="1">
+      <question-text>The word <bg>harpoons</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>
+            <exp>spears</exp>
+         </answer-text>
+         <answer-text>fishing rods</answer-text>
+         <answer-text>dishes</answer-text>
+         <answer-text>ornaments</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+            The passage mentions <exp>hunting equipment such as bows and harpoons</exp>. From this context, it can be determined that <exp>harpoons</exp> is closest in meaning to <exp>spears</exp>. The first answer is therefore the best answer to this question.
+      </explain-text>
+   </question>
+   
+</question-list>

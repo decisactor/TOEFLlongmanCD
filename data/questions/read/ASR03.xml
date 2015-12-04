@@ -1,0 +1,185 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR03P0.xml'>
+   <question type='multichoice' passage-file='ASR03P1.xml' skills='1'>
+      <question-text>The word <bg>sharp</bg> in paragraph 1 could be best replaced by</question-text>
+      <answer-list>
+      <answer-text>clever</answer-text>
+      <answer-text>
+         <exp>harsh</exp>
+      </answer-text>
+      <answer-text>rapid</answer-text>
+      <answer-text>smart</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>The passage mentions <exp>a sharp warning to the public</exp>. From this context, it can be determined that <exp>sharp</exp> could best be replaced by <exp>harsh</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P2.xml' skills='1'>
+   <question-text>The phrase <bg>a circuitous fashion</bg> in paragraph 2 is closest in meaning to</question-text>
+   <answer-list>
+      <answer-text>a stylish way</answer-text>
+      <answer-text>a difficult situation</answer-text>
+      <answer-text>a circular pattern</answer-text>
+      <answer-text>
+         <exp>an indirect manner</exp>
+      </answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>The passage states that <exp>she came into the field of scientific writing in a circuitous fashion</exp>, that she had <exp>the intention of majoring in literature</exp>, and that <exp>a biology course&#8230;led her in an entirely different direction</exp>. From this context, it can be determined that the phrase <exp>a circuitous fashion</exp> is closest in meaning to <exp>an indirect manner</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P3.xml' skills='2'>
+      <question-text>The word <bg>that</bg> in paragraph 2 refers to</question-text>
+       <answer-list>
+      <answer-text>a career</answer-text>
+      <answer-text>a writer of fiction</answer-text>
+      <answer-text>
+         <exp>a biology course</exp>
+      </answer-text>
+      <answer-text>her sophomore year</answer-text>
+       </answer-list>
+      <key>3</key>
+      <explain-text>The passage mentions <exp>a biology course that she took.</exp> From this context, it can be determined that <br/><exp>that</exp> refers to <exp>a biology course</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P4.xml' skills='2'>
+      <question-text>The word <bg>who</bg> in paragraph 3 refers to</question-text>
+       <answer-list>
+      <answer-text>Carson</answer-text>
+      <answer-text>a letter</answer-text>
+      <answer-text>
+         <exp>a stranger</exp>
+      </answer-text>
+      <answer-text>the state of Massachusetts</answer-text>
+       </answer-list>
+      <key>3</key>
+      <explain-text>The passage mentions <exp>a letter from a stranger&#8230;who was disturbed by the effects of pesticides</exp>. From this context, it can be determined that <exp>who</exp> refers to <exp>a stranger</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P5.xml' skills='1'>
+      <question-text>The phrase <bg>succumbed to</bg> in paragraph 3 is closest in meaning to</question-text>
+       <answer-list>
+      <answer-text>
+         <exp>died as a result of</exp>
+      </answer-text>
+      <answer-text>ran away from</answer-text>
+      <answer-text>were in the presence of</answer-text>
+      <answer-text>were enemies of</answer-text>
+       </answer-list>
+      <key>1</key>
+      <explain-text>The passage states that <exp>a number of other insects as well as bees and songbirds also succumbed to the pesticide spray</exp>. From this context, it can be determined that <exp>succumbed to</exp> is closest in meaning to <exp>died as a result of</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P6.xml' skills='1'>
+      <question-text>The word <bg>enmity</bg> in paragraph 4 is closest in meaning to</question-text>
+       <answer-list>
+      <answer-text>appreciation</answer-text>
+      <answer-text>
+         <exp>hatred</exp>
+      </answer-text>
+      <answer-text>irreverence</answer-text>
+      <answer-text>friendship</answer-text>
+       </answer-list>
+      <key>2</key>
+      <explain-text>The passage mentions <exp>enmity for Carson's ideas</exp> and states that <exp>some who were offended by her message tried to prevent the publication of the book and to discredit Carson's ideas</exp>. From this context, it can be determined that <exp>enmity</exp> is closest in meaning to <exp>hatred</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P7.xml' skills='1'>
+      <question-text>The phrase <bg>came to fruition</bg> in paragraph 4 is closest in meaning to</question-text>
+       <answer-list>
+      <answer-text>increased</answer-text>
+      <answer-text>aged</answer-text>
+      <answer-text>terminated</answer-text>
+      <answer-text>
+         <exp>materialized</exp>
+      </answer-text>
+       </answer-list>
+      <key>4</key>
+      <explain-text>The passage mentions <exp>a lawsuit if the book was published</exp> and states that <exp>the lawsuit never came to fruition, and publication of the book went forward</exp>. From this context, it can be determined that the phrase <exp>came to fruition</exp> is closest in meaning to <exp>materialized</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P8.xml' skills='1'>
+      <question-text>The word <bg>refute</bg> in paragraph 4 is closest in meaning to</question-text>
+       <answer-list>
+      <answer-text>
+         <exp>contradict</exp>
+      </answer-text>
+      <answer-text>support</answer-text>
+      <answer-text>separate</answer-text>
+      <answer-text>establish</answer-text>
+       </answer-list>
+      <key>1</key>
+      <explain-text>The passage states that <exp>a number of organizations were involved in very public attempts to discredit Carson's claims</exp> and that <exp>the National Agricultural Chemicals Association created a publication, "Fact and Fancy," to refute Carson's contentions</exp>. From this context, it can be determined that <exp>refute</exp> is closest in meaning to <exp>contradict</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P9.xml' skills='2'>
+      <question-text>The word <bg>themselves</bg> in paragraph 4 refers to</question-text>
+       <answer-list>
+      <answer-text>public debates</answer-text>
+      <answer-text>discussions</answer-text>
+      <answer-text>her ideas</answer-text>
+      <answer-text>
+         <exp>her written words</exp>
+      </answer-text>
+       </answer-list>
+      <key>4</key>
+      <explain-text>The passage states that <exp>Carson&#8230;let her written words speak for themselves</exp>. From this context, it can be determined that <exp>themselves</exp> refers to <exp>her written words</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P10.xml' skills='1'>
+      <question-text>The word <bg>feted</bg> in paragraph 5 is closest in meaning to</question-text>
+       <answer-list>
+      <answer-text>
+         <exp>honored</exp>
+      </answer-text>
+      <answer-text>empowered</answer-text>
+      <answer-text>bothered</answer-text>
+      <answer-text>overcome</answer-text>
+       </answer-list>
+      <key>1</key>
+      <explain-text>The passage states that <exp>Carson was feted with praise and numerous awards for her book</exp>. From this context, it can be determined that <exp>feted</exp> is closest in meaning to <exp>honored</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P11.xml' skills='2'>
+      <question-text>The word <bg>it</bg> in paragraph 5 refers to</question-text>
+       <answer-list>
+      <answer-text>praise</answer-text>
+      <answer-text>
+         <exp>her book</exp>
+      </answer-text>
+      <answer-text>the information</answer-text>
+      <answer-text>impetus</answer-text>
+       </answer-list>
+      <key>2</key>
+      <explain-text>The passage mentions <exp>her book, and the information she had presented and the ideas she had espoused in it</exp>. From this context, it can be determined that <exp>it</exp> refers to <exp>her book</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P12.xml' skills='1'>
+      <question-text>The phrase <bg>impetus for</bg> in paragraph 5 is closest in meaning to</question-text>
+       <answer-list>
+      <answer-text>consequence of</answer-text>
+      <answer-text>impediment to</answer-text>
+      <answer-text>
+         <exp>stimulus for</exp>
+      </answer-text>
+      <answer-text>declaration of</answer-text>
+       </answer-list>
+      <key>3</key>
+      <explain-text>The passage states that <exp>the ideas&#8230;were the impetus for numerous important changes</exp>. From this context, it can be determined that the phrase <exp>impetus for</exp> is closest in meaning to <exp>stimulus for</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+   <question type='multichoice' passage-file='ASR03P13.xml' skills='1'>
+      <question-text>The word <bg>unprecedented</bg> in paragraph 5 is closest in meaning to</question-text>
+       <answer-list>
+      <answer-text>
+         <exp>unusual</exp>
+      </answer-text>
+      <answer-text>unproductive</answer-text>
+      <answer-text>unprofessional</answer-text>
+      <answer-text>unrealistic</answer-text>
+       </answer-list>
+      <key>1</key>
+      <explain-text>The passage mentions <exp>unprecedented legal action</exp> and <exp>this new direction in the legal arena</exp>. From this context, it can be determined that <exp>unprecedented</exp> is closest in meaning to <exp>unusual</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+</question-list>

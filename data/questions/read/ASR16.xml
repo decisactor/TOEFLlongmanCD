@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR16P00.xml'>
+    <question type="multichoice" passage-file="ASR16P01.xml" skills="2">
+        <question-text>The word <bg>they</bg> in paragraph 1 refers to</question-text>
+        <answer-list>
+            <answer-text>coral colonies</answer-text>
+            <answer-text>events and circumstances</answer-text>
+            <answer-text>intricate reef structures</answer-text>
+            <answer-text>chemical processes</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR16P02.xml" skills="2">
+        <question-text>The word <bg>that</bg> in paragraph 2 refers to</question-text>
+        <answer-list>
+            <answer-text>the basic element</answer-text>
+            <answer-text>the development of coralline reef structures</answer-text>
+            <answer-text>a group of animals</answer-text>
+            <answer-text>the <i>Anthozoa</i> class</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>    
+    
+    <question type="multichoice" passage-file="ASR16P03.xml" skills="1">
+        <question-text>The phrase <bg>immeasurable number</bg> in paragraph 2 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>an exact integer</answer-text>
+            <answer-text>a huge quantity</answer-text>
+            <answer-text>a surprising total</answer-text>
+            <answer-text>a changing sum</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>  
+    
+    <question type="multichoice" passage-file="ASR16P04.xml" skills="1">
+        <question-text>The word <bg>minute</bg> in paragraph 2 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>tiny</answer-text>
+            <answer-text>light</answer-text>
+            <answer-text>timely</answer-text>
+            <answer-text>soft</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>  
+    
+    <question type="multichoice" passage-file="ASR16P05.xml" skills="1">
+        <question-text>The word <bg>once-living</bg> in paragraph 3 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>aging</answer-text>
+            <answer-text>dead</answer-text>
+            <answer-text>growing</answer-text>
+            <answer-text>solitary</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR16P06.xml" skills="1">
+        <question-text>The word <bg>hardy</bg> in paragraph 3 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>difficult</answer-text>
+            <answer-text>fragile</answer-text>
+            <answer-text>scarce</answer-text>
+            <answer-text>rugged</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR16P07.xml" skills="2">
+        <question-text>The word <bg>They</bg> in paragraph 3 refers to</question-text>
+        <answer-list>
+            <answer-text>coralline structures</answer-text>
+            <answer-text>upward and outward directions</answer-text>
+            <answer-text>skeletal remnants</answer-text>
+            <answer-text>external forces of nature</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR16P08.xml" skills="2">
+        <question-text>The word <bg>them</bg> in paragraph 3 refers to</question-text>
+        <answer-list>
+            <answer-text>sea animals</answer-text>
+            <answer-text>sponges and clams</answer-text>
+            <answer-text>skeletal structures</answer-text>
+            <answer-text>many openings</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR16P09.xml" skills="1">
+        <question-text>The phrase <bg>borings</bg> in paragraph 4 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>dull pieces</answer-text>
+            <answer-text>strange creations</answer-text>
+            <answer-text>living beings</answer-text>
+            <answer-text>powdery remnants</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR16P10.xml" skills="1">
+        <question-text>The word <bg>ongoing</bg> in paragraph 5 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>mobile</answer-text>
+            <answer-text>continuous</answer-text>
+            <answer-text>increasing</answer-text>
+            <answer-text>periodic</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR16P11.xml" skills="1">
+        <question-text>The phrase <bg>break down</bg> in paragraph 5 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>cease functioning</answer-text>
+            <answer-text>interrupt</answer-text>
+            <answer-text>descend</answer-text>
+            <answer-text>decompose</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR16P12.xml" skills="2">
+        <question-text>The word <bg>that</bg> in paragraph 6 refers to</question-text>
+        <answer-list>
+            <answer-text>variety</answer-text>
+            <answer-text>life-forms</answer-text>
+            <answer-text>part</answer-text>
+            <answer-text>process</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>    
+    
+    <question type="multichoice" passage-file="ASR16P12.xml" skills="2">
+        <question-text>The word <bg>their</bg> in paragraph 6 refers to</question-text>
+        <answer-list>
+            <answer-text>coralline structures</answer-text>
+            <answer-text>complicated processes</answer-text>
+            <answer-text>rounded and more compact shapes</answer-text>
+            <answer-text>plant and animal life-forms</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+</question-list>    
