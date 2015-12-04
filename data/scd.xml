@@ -620,13 +620,16 @@
                 <menu-item title='Passage 1 (Skills 1-2)' action='read.1.1'/>
                 <menu-item title='Passage 2 (Skills 1-2)' action='read.1.2'/>
                 <menu-item title='Passage 3 (Skills 1-2)' action='read.1.3'/>
+                <menu-item title='Passage 4 (Skills 1-2)' action='read.1.4'/>
               </menu>
             </menu-item>
             <menu-item title='Sentences' action='menu'>
               <menu title='Skills - Sentences' color='read' width='450' height='33' gap='16' toolbar='read'>
                 <menu-item title='Passage 1 (Skills 3-4)' action='read.2.1'/>
                 <menu-item title='Passage 2 (Skills 3-4)' action='read.2.2'/>
-                <menu-item title='Passage 3 (Skills 1-4)' action='read.2.3'/>
+                <menu-item title='Passage 3 (Skills 3-4)' action='read.2.3'/>
+                <menu-item title='Passage 4 (Skills 1-4)' action='read.2.4'/>
+                <menu-item title='Passage 5 (Skills 1-4)' action='read.2.5'/>
               </menu>
             </menu-item>
             <menu-item title='Details' action='menu'>
@@ -939,9 +942,12 @@
     <read.1.1 title='Skills - Vocabulary and Reference - Passage 1' alias='ASR01' count='13'/>
     <read.1.2 title='Skills - Vocabulary and Reference - Passage 2' alias='ASR02' count='13'/>
     <read.1.3 title='Skills - Vocabulary and Reference - Passage 3' alias='ASR03' count='13'/>
+    <read.1.4 title='Skills - Vocabulary and Reference - Passage 4' alias='ASR16' count='13'/>
     <read.2.1 title='Skills - Sentences - Passage 1' alias='ASR04' count='10'/>
     <read.2.2 title='Skills - Sentences - Passage 2' alias='ASR05' count='10'/>
-    <read.2.3 title='Skills - Sentences - Passage 3' alias='ASR06' count='13'/>
+    <read.2.3 title='Skills - Sentences - Passage 3' alias='ASR17' count='10'/>
+    <read.2.4 title='Skills - Sentences - Passage 4' alias='ASR06' count='13'/>
+    <read.2.5 title='Skills - Sentences - Passage 5' alias='ASR18' count='13'/>
     <read.3.1 title='Skills - Details - Passage 1' alias='ASR07' count='13'/>
     <read.3.2 title='Skills - Details - Passage 2' alias='ASR08' count='13'/>
     <read.3.3 title='Skills - Details - Passage 3' alias='ASR09' count='13'/>

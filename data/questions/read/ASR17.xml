@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR17P00.xml'>
+    
+    <question type='insert' passage-file='ASR17P01.xml' skills='4'>
+        <insert-text>
+            <b>This forceful first novel set a new path for American novels at the turn of the last century.</b>
+        </insert-text>
+        <key>4</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR17P02.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Dreiser's family had formerly been rich before it had become poor.</answer-text>
+            <answer-text>Dreiser was, unfortunately, born into an overly dramatic family.</answer-text>
+            <answer-text>The fortunes of Dreiser's family had recently increased.</answer-text>
+            <answer-text>Members of Dreiser's family suffered from the serious effects of a disease.</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR17P03.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Dreiser served as a witness in a number of trials that involved beggars, alcoholics, and prostitutes.</answer-text>
+            <answer-text>Dreiser observed and wrote about the poorer classes as part of his newspaper job.</answer-text>
+            <answer-text>In New York City, during Dreiser's time, there were many people who were less fortunate than Dreiser.</answer-text>
+            <answer-text>Dreiser's work involved working with beggars, alcoholics, and prostitutes.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type='insert' passage-file='ASR17P04.xml' skills='4'>
+        <insert-text>
+            <b>At this young age, he moved alone to Chicago and supported himself by taking odd jobs.</b>
+        </insert-text>
+        <key>2</key>
+    </question>
+    
+    <question type='insert' passage-file='ASR17P05.xml' skills='4'>
+        <insert-text>
+            <b>It was rather unusual for a novice writer to achieve so much so quickly.</b>
+        </insert-text>
+        <key>2</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR17P06.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Dreiser devoted his life primarily to trying to become rich.</answer-text>
+            <answer-text>In Dreiser's novel, Carrie succeeds by moving from a low-level job to stardom.</answer-text>
+            <answer-text>Dreiser used one of his characters to demonstrate the negative aspects of lust for money.</answer-text>
+            <answer-text>Dreiser tried to warn Carrie that she was taking the wrong path in life.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type='insert' passage-file='ASR17P07.xml' skills='4'>
+        <insert-text>
+            <b>These changes were intended to tone down some of the starker and more scandalous descriptions.</b>
+        </insert-text>
+        <key>2</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR17P08.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 5? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Dreiser recovered from an attempted suicide at a sanatorium.</answer-text>
+            <answer-text>Dreiser's brother went to a sanatorium after attempting suicide.</answer-text>
+            <answer-text>After being sent to a sanatorium, Dreiser considered committing suicide.</answer-text>
+            <answer-text>Dreiser's brother stepped in to help Dreiser after Dreiser became depressed.</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR17P09.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 5 <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.?</question-text>
+        <answer-list>
+            <answer-text>In Dreiser's novels, he recognized the power of urban life and new trends that existed in it.</answer-text>
+            <answer-text>The success of Dreiser's novel went unrecognized because it represented such a new trend in literature.</answer-text>
+            <answer-text>Dreiser credited his urban upbringing and literary background for the success that his novel achieved.</answer-text>
+            <answer-text>Dreiser achieved acclaim because his writing was so powerful and because he established a new trend.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+    
+    <question type='insert' passage-file='ASR17P10.xml' skills='4'>
+        <insert-text>
+            <b>This company was one that published magazines to promote sewing and the sale of clothing patterns.</b>
+        </insert-text>
+        <key>2</key>
+    </question>
+</question-list>

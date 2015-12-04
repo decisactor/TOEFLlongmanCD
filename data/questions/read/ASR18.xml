@@ -1,0 +1,139 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR18P00.xml'>
+    <question type="multichoice" passage-file="ASR18P01.xml" skills="1">
+      
+        <question-text>The phrase <bg>emanate from</bg> in paragraph 1 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>develop from</answer-text>
+            <answer-text>revolve around</answer-text>
+            <answer-text>wander away from</answer-text>
+            <answer-text>receive directions from</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR18P02.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>It was unusual for researchers to hear patterns from space.</answer-text>
+            <answer-text>It was unusual for celestial objects to emit radio signals.</answer-text>
+            <answer-text>It was unusual that the pattern of the pulsars was so regular.</answer-text>
+            <answer-text>It was unusual that the period of pulses was only slightly more than a second in length.</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR18P03.xml" skills="2">
+        <question-text>The word <bg>they</bg> in paragraph 2 refers to</question-text>
+        <answer-list>
+            <answer-text>day after day</answer-text>
+            <answer-text>the pulses</answer-text>
+            <answer-text>the stars</answer-text>
+            <answer-text>Cambridge researchers</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+      
+    <question type="multichoice" passage-file="ASR18P04.xml" skills="1">
+        <question-text>The word <bg>raised</bg> in paragraph 3 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>lifted</answer-text>
+            <answer-text>suggested</answer-text>
+            <answer-text>discovered</answer-text>
+            <answer-text>elevated</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>  
+    
+    <question type='insert' passage-file='ASR18P05.xml' skills='4'>
+        <insert-text>
+            <b>This name was selected because it indicates a regularly pulsing radio source.</b>
+        </insert-text>
+        <key>4</key>
+    </question>      
+    
+    <question type="multichoice" passage-file="ASR18P06.xml" skills="1">
+        <question-text>The phrase <bg>engaged in</bg> in paragraph 4 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>became attached to</answer-text>
+            <answer-text>were disappointed in</answer-text>
+            <answer-text>made promises about</answer-text>
+            <answer-text>took part in</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR18P07.xml" skills="2">
+        <question-text>The word <bg>their</bg> in paragraph 4 refers to</question-text>
+        <answer-list>
+            <answer-text>weeks</answer-text>
+            <answer-text>pulsars</answer-text>
+            <answer-text>astronomers</answer-text>
+            <answer-text>details</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR18P08.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 4? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Pulsars could not be white dwarfs because the frequency of the pulsars is too high.</answer-text>
+            <answer-text>Pulsars cannot spin very fast because they will fall apart if they spin fast.</answer-text>
+            <answer-text>White dwarfs cannot be dying stars because they cannot pulse at around thirty times per second.</answer-text>
+            <answer-text>White dwarfs cannot contain pulsars because white dwarfs spin much faster than pulsars.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>  
+    
+    <question type="multichoice" passage-file="ASR18P09.xml" skills="1">
+        <question-text>The word <bg>Further</bg> in paragraph 5 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>distant</answer-text>
+            <answer-text>irrelevant</answer-text>
+            <answer-text>additional</answer-text>
+            <answer-text>unreliable</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR18P10.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 5? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>It is believed that the supernova of 1054 created the Crab Nebula, which contains a pulsing neutron star.</answer-text>
+            <answer-text>It is believed that a pulsar created the Crab Nebula, which exploded in a supernova in 1054.</answer-text>
+            <answer-text>It is believed that a neutron star exploded in the supernova of 1054, creating the Crab Nebula.</answer-text>
+            <answer-text>It is believed that the Crab Nebula is a pulsar that is on the verge of becoming a supernova.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>    
+    
+     <question type="multichoice" passage-file="ASR18P11.xml" skills="1">
+        <question-text>The word <bg>properties</bg> in paragraph 6 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>lands</answer-text>
+            <answer-text>characteristics</answer-text>
+            <answer-text>masses</answer-text>
+            <answer-text>surroundings</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR18P012.xml" skills="2">
+        <question-text>The word <bg>it</bg> in paragraph 6 refers to</question-text>
+        <answer-list>
+            <answer-text>a spinning neutron star</answer-text>
+            <answer-text>a the sky</answer-text>
+            <answer-text>one of the beams</answer-text>
+            <answer-text>the Earth</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>   
+       
+    <question type='insert' passage-file='ASR18P13.xml' skills='4'>
+        <insert-text>
+            <b>The periodic flashing of pulsars is related to rotation rather than pulsing, so the name pulsar is actually not very accurate.</b>
+        </insert-text>
+        <key>1</key>
+    </question>   
+     
+</question-list>    
