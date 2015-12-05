@@ -132,7 +132,7 @@
         <key>1</key>
     </question>    
     
-    <question type="multichoice" passage-file="ASR16P12.xml" skills="2">
+    <question type="multichoice" passage-file="ASR16P13.xml" skills="2">
         <question-text>The word <bg>their</bg> in paragraph 6 refers to</question-text>
         <answer-list>
             <answer-text>coralline structures</answer-text>
