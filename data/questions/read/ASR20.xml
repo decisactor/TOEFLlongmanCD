@@ -1,0 +1,140 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR20P00.xml'>
+
+    <question type="multichoice" passage-file="ASR20P01.xml" skills="5">
+        <question-text>According to paragraph 1, children over the age of three</question-text>
+        <answer-list>
+            <answer-text>learn little language from those around them</answer-text>
+            <answer-text>are no longer influenced by the language of their parents</answer-text>
+            <answer-text>are influenced more and more by those closer to their own age</answer-text>
+            <answer-text>first begin to respond to caretaker speech</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR20P02.xml" skills="1">
+        <question-text>The word <bg>Modeling</bg> in paragraph 1 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>demonstrating</answer-text>
+            <answer-text>mimicking</answer-text>
+            <answer-text>building</answer-text>
+            <answer-text>designing</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR20P03.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Most people are quite aware of the use of caretaker speech because of thorough study and research about it.</answer-text>
+            <answer-text>The unconscious use of caretaker speech involves a reduction in the complexity of language, while the conscious use of caretaker speech involves an increase in complexity.</answer-text>
+            <answer-text>Young children tend to use caretaker speech quite unconsciously in order to reduce the complexity of their thoughts to language that they can express.</answer-text>
+            <answer-text>People generally seem to be able to adapt their language to the level of a child's language without thinking consciously about it.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+  
+    <question type="multichoice" passage-file="ASR20P04.xml" skills="2">
+        <question-text>The word <bg>it</bg> in paragraph 2 refers to</question-text>
+        <answer-list>
+            <answer-text>caretaker speech</answer-text>
+            <answer-text>a higher-pitched voice</answer-text>
+            <answer-text>essential information</answer-text>
+            <answer-text>baby talk</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>    
+   
+    <question type='insert' passage-file='ASR20P05.xml' skills='4'>
+        <insert-text>
+            <b>Examples of these are expressions such as "Say bye-bye" or "Where's da-da?"</b>
+        </insert-text>
+        <key>4</key>
+    </question>  
+      
+    <question type="multichoice" passage-file="ASR20P06.xml" skills="6">
+        <question-text>All of the following are mentioned in paragraph 3 as characteristics of caretaker speech EXCEPT</question-text>
+        <answer-list>
+            <answer-text>overemphasized inflections</answer-text>
+            <answer-text>the use of rhyming sounds</answer-text>
+            <answer-text>the tendency to repeat oneself</answer-text>
+            <answer-text>the use of easier words and structures</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>     
+           
+    <question type="multichoice" passage-file="ASR20P07.xml" skills="5">
+        <question-text>It is indicated in paragraph 3 that parents tend to</question-text>
+        <answer-list>
+            <answer-text>speak in basically the same way to a one-year-old and a three-year-old</answer-text>
+            <answer-text>use language that is far above the language level of a child</answer-text>
+            <answer-text>speak in a progressively less complex way as a child matures</answer-text>
+            <answer-text>modify their speech according to the language development of a child</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+              
+    <question type="multichoice" passage-file="ASR20P08.xml" skills="1">
+        <question-text>The word <bg>reaches</bg> in paragraph 3 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>holds on to</answer-text>
+            <answer-text>takes charge of</answer-text>
+            <answer-text>arrives at</answer-text>
+            <answer-text>extends out to</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>   
+
+    <question type="multichoice" passage-file="ASR20P09.xml" skills="2">
+        <question-text>The word <bg>that</bg> in paragraph 4 refers to</question-text>
+        <answer-list>
+            <answer-text>an important point</answer-text>
+            <answer-text>the function</answer-text>
+            <answer-text>caretaker speech</answer-text>
+            <answer-text>a child</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>                    
+
+    <question type="multichoice" passage-file="ASR20P10.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 4? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>People who believe in nature over nurture feel that adults or older children who are around younger children will naturally make changes in their language.</answer-text>
+            <answer-text>Caretaker speech is one of many natural functions that are used to stimulate young children to develop more rapidly.</answer-text>
+            <answer-text>The natural human tendency to acquire language makes caretaker speech unimportant in improving the rate of  language acquisition by children</answer-text>
+            <answer-text>It is human nature for children to develop the use of caretaker speech in order to take part effectively in conversations around them.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+                                                                                                                                             
+   
+    <question type="multichoice" passage-file="ASR20P11.xml" skills="6">
+        <question-text>According to paragraph 4, it is NOT expected that someone who believes in nurture over nature</question-text>
+        <answer-list>
+            <answer-text>would believe that caretaker speech is more of a learned style of language than a natural one</answer-text>
+            <answer-text>would use different styles of caretaker speech with children in response to what is working best</answer-text>
+            <answer-text>would learn to use different styles of caretaker speech with different children</answer-text>
+            <answer-text>would use less caretaker speech than do those who believe in nature over nurture</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question> 
+   
+    <question type="multichoice" passage-file="ASR20P12.xml" skills="1">
+        <question-text>The phrase <bg>trying out</bg> in paragraph 4 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>experimenting with</answer-text>
+            <answer-text>bringing about</answer-text>
+            <answer-text>throwing away</answer-text>
+            <answer-text>taking over</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>    
+                 
+    <question type='insert' passage-file='ASR20P13.xml' skills='4'>
+        <insert-text>
+            <b>It is not merely a device used by English-speaking parents.</b>
+        </insert-text>
+        <key>2</key>
+    </question>  
+                                                                      
+</question-list>  

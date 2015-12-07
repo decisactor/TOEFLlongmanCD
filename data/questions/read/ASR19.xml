@@ -1,0 +1,147 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR19P00.xml'>
+      
+    <question type="multichoice" passage-file="ASR19P01.xml" skills="5">
+        <question-text>According to paragraph 1, Muir was born</question-text>
+        <answer-list>
+            <answer-text>in the first half of the eighteenth century</answer-text>
+            <answer-text>in the second half of the eighteenth century</answer-text>
+            <answer-text>in the first half of the nineteenth century</answer-text>
+            <answer-text>in the second half of the nineteenth century</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question> 
+  
+    <question type="multichoice" passage-file="ASR19P02.xml" skills="5">
+        <question-text>It is stated in paragraph 1 that Muir is known for</question-text>
+        <answer-list>
+            <answer-text>his contributions to immigration reform</answer-text>
+            <answer-text>his explorations of the wilderness</answer-text>
+            <answer-text>his efforts to maintain natural areas</answer-text>
+            <answer-text>his extensive studies of the national parks</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR19P03.xml" skills="5">
+        <question-text>It is indicated in paragraph 2 that Muir's early education</question-text>
+        <answer-list>
+            <answer-text>was conducted at home</answer-text>
+            <answer-text>took place in a religious school</answer-text>
+            <answer-text>violated his father's wishes</answer-text>
+            <answer-text>was in a public school</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>      
+
+    <question type="multichoice" passage-file="ASR19P04.xml" skills="6">
+        <question-text>It is NOT mentioned in paragraph 2 that Muir</question-text>
+        <answer-list>
+            <answer-text>whittled with wood</answer-text>
+            <answer-text>was taught how to whittle by his father</answer-text>
+            <answer-text>whittled mechanical devices</answer-text>
+            <answer-text>was admitted to the university because of his whittling</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR19P05.xml" skills="6">
+        <question-text>According to paragraph 2, after Muir left the university, it is NOT true that he</question-text>
+        <answer-list>
+            <answer-text>took a job in a factory</answer-text>
+            <answer-text>suffered an unhealable injury</answer-text>
+            <answer-text>made a decision to quit his job</answer-text>
+            <answer-text>embarked on a long walking tour</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+                   
+    <question type="multichoice" passage-file="ASR19P06.xml" skills="6">
+        <question-text>All of the following are mentioned in paragraph 3 as jobs that Muir held EXCEPT</question-text>
+        <answer-list>
+            <answer-text>a laborer</answer-text>
+            <answer-text>an animal tender</answer-text>
+            <answer-text>a wilderness guide</answer-text>
+            <answer-text>a travel writer</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+      
+    <question type="multichoice" passage-file="ASR19P07.xml" skills="5">
+        <question-text>It is stated in paragraph 3 that in the years after 1880, Muir</question-text>
+        <answer-list>
+            <answer-text>took some odd jobs</answer-text>
+            <answer-text>devoted a lot of time to his family</answer-text>
+            <answer-text>gave his wife's parents a ranch</answer-text>
+            <answer-text>spent most of his time preserving the environment</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR19P08.xml" skills="6">
+        <question-text>It is NOT mentioned in paragraph 4 that Muir</question-text>
+        <answer-list>
+            <answer-text>had been uninvolved with environmentalists for a period of time</answer-text>
+            <answer-text>was contacted by an editor for <i>The Century</i></answer-text>
+            <answer-text>worked as an editor for <i>The Century</i></answer-text>
+            <answer-text>wrote two articles for <i>The Century</i></answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>   
+  
+    <question type="multichoice" passage-file="ASR19P09.xml" skills="5">
+        <question-text>The camping trip that is discussed in paragraph 4</question-text>
+        <answer-list>
+            <answer-text>occurred in the 1870s</answer-text>
+            <answer-text>led Muir to areas that he had never before seen</answer-text>
+            <answer-text>took place in areas that were in their natural state</answer-text>
+            <answer-text>helped to convince Muir to write the articles</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>  
+               
+    <question type="multichoice" passage-file="ASR19P10.xml" skills="5">
+        <question-text>It is stated in paragraph 5 that the Enabling Act</question-text>
+        <answer-list>
+            <answer-text>allowed the president to set aside lands to conserve them</answer-text>
+            <answer-text>became law in 1890</answer-text>
+            <answer-text>called for the establishment of the first three national parks</answer-text>
+            <answer-text>preserved lands for government use</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>  
+      
+    <question type="multichoice" passage-file="ASR19P11.xml" skills="6">
+        <question-text>According to paragraph 5, it is NOT true that the Sierra Club was founded</question-text>
+        <answer-list>
+            <answer-text>after the passage of the Enabling Act</answer-text>
+            <answer-text>by John Muir</answer-text>
+            <answer-text>before the turn of the century</answer-text>
+            <answer-text>to move Yosemite to the Sierra Nevada</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>    
+    
+    <question type="multichoice" passage-file="ASR19P12.xml" skills="5">
+        <question-text>It is mentioned in paragraph 6 that, for the last decades of his life, Muir</question-text>
+        <answer-list>
+            <answer-text>spent a considerable amount of time in Yosemite</answer-text>
+            <answer-text>wrote a number of new laws</answer-text>
+            <answer-text>changed his mind on the need for environmental protection</answer-text>
+            <answer-text>devoted himself to increasing public awareness of the environment</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question> 
+   
+    <question type="multichoice" passage-file="ASR19P13.xml" skills="6">
+        <question-text>It is NOT indicated in paragraph 7 that early in the twenty-first century</question-text>
+        <answer-list>
+            <answer-text>hundreds of locations are part of the National Park Service</answer-text>
+            <answer-text>numerous parks, rivers, seashores, and preserves are being developed</answer-text>
+            <answer-text>a quarter of a billion people visit these parks each year</answer-text>
+            <answer-text>more than a half a million people belong to the Sierra Club</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>     
+                                
+</question-list>   
