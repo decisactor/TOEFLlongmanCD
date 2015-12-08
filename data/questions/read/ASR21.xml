@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR21P00.xml'>
+
+    <question type="multichoice" passage-file="ASR21P01.xml" skills="7">
+        <question-text>It can be inferred from paragraph 1 that, while she was alive, Ella Deloria</question-text>
+        <answer-list>
+            <answer-text>did little to make use of her education in linguistic</answer-text>
+            <answer-text>achieved acclaim more for her transcriptions than for her novel</answer-text>
+            <answer-text>was the published author of a number of types of fiction and nonfiction</answer-text>
+            <answer-text>was recognized for the literary maturity of her novel</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR21P02.xml" skills="8">
+        <question-text>Why does the author use the word <bg>however</bg> in paragraph 2?</question-text>
+        <answer-list>
+            <answer-text>To emphasize that she was born in an earlier century</answer-text>
+            <answer-text>To clarify the differences between the Lakota and the Dakota</answer-text>
+            <answer-text>To show that she was raised in a different environment from the one where she was born</answer-text>
+            <answer-text>To demonstrate that she was very different from other members of her family</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR21P03.xml" skills="8">
+        <question-text>Why does the author include the information <bg>with a complex kinship structure in which all of a child's father's brothers are also considered fathers, all of a child's mother's sisters are also considered mothers, and all of the children of all these mothers and fathers are considered siblings</bg> in parentheses?</question-text>
+        <answer-list>
+            <answer-text>To provide details to emphasize how the Nakata and the Lakota differed</answer-text>
+            <answer-text>To introduce the idea that Deloria's education in English was completely different from her home life</answer-text>
+            <answer-text>To provide an alternate explanation for Deloria's use of Nakata at home and Lakota in the community</answer-text>
+            <answer-text>To provide an example of one cultural tradition of the Sioux</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+ 
+    <question type="multichoice" passage-file="ASR21P04.xml" skills="8">
+        <question-text>Why does the author begin paragraph 3 with <bg>After graduating from Columbia?</bg></question-text>
+        <answer-list>
+            <answer-text>To indicate that paragraph 3 follows paragraph 2 in chronological order</answer-text>
+            <answer-text>To clarify that paragraph 3 describes Deloria's education at Columbia</answer-text>
+            <answer-text>To recognize the importance of education throughout Deloria's life</answer-text>
+            <answer-text>To demonstrate that paragraph 3 provides examples of a concept presented in paragraph 2</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+      
+    <question type="multichoice" passage-file="ASR21P05.xml" skills="7">
+        <question-text>It is implied in paragraph 3 that <i>Dakota Texts</i> was written</question-text>
+        <answer-list>
+            <answer-text>only in English</answer-text>
+            <answer-text>only in Dakota</answer-text>
+            <answer-text>in Dakota and Lakota</answer-text>
+            <answer-text>in Lakota and English</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR21P06.xml" skills="8">
+        <question-text>Why does the author mention <bg>an awareness of appropriately respectful behavior</bg> in paragraph 3?</question-text>
+        <answer-list>
+            <answer-text>To show one way that Deloria was qualified to elicit stories from Sioux elders</answer-text>
+            <answer-text>To show that Deloria's linguistic training had been effective</answer-text>
+            <answer-text>To show the difference between Deloria's transcriptions and her novel</answer-text>
+            <answer-text>To show why Deloria needed to work with a translator</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>      
+
+    <question type="multichoice" passage-file="ASR21P07.xml" skills="7">
+        <question-text>It can be inferred from paragraph 4 that "Iron Hawk: Oglala Culture Hero" was published</question-text>
+        <answer-list>
+            <answer-text>in the same year that it was written</answer-text>
+            <answer-text>just prior to Deloria's death</answer-text>
+            <answer-text>long after it was transcribed</answer-text>
+            <answer-text>long before <i>Waterlily</i> was published</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>   
+  
+    <question type="multichoice" passage-file="ASR21P08.xml" skills="8">
+        <question-text>Why does the author discuss "The Prairie Dogs" in paragraph 4?</question-text>
+        <answer-list>
+            <answer-text>It was written by Deloria.</answer-text>
+            <answer-text>It describes Deloria's own life story.</answer-text>
+            <answer-text>It provides insight into rituals and dances.</answer-text>
+            <answer-text>It was one of the earliest short stories that Deloria transcribed.</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>       
+   
+    <question type="multichoice" passage-file="ASR21P09.xml" skills="7">
+        <question-text>It can be inferred from the passage that <i>Waterlily</i> was completed</question-text>
+        <answer-list>
+            <answer-text>in 1937</answer-text>
+            <answer-text>in 1948</answer-text>
+            <answer-text>in 1954</answer-text>
+            <answer-text>in 1988</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+       
+    <question type="multichoice" passage-file="ASR21P10.xml" skills="8">
+        <question-text>Why does the author mention the <bg>untimely death of her husband in a smallpox epidemic</bg> in paragraph 5?</question-text>
+        <answer-list>
+            <answer-text>It provides a harsh example of Waterlily's difficult life.</answer-text>
+            <answer-text>It provides evidence of the historical existence of Waterlily.</answer-text>
+            <answer-text>It demonstrates how unusual Waterlily's life in a nineteenth-century Sioux community was.</answer-text>
+            <answer-text>It reinforces the overall message of hopelessness of Waterlily.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+                                              
+</question-list>   

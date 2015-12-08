@@ -105,8 +105,7 @@
             <answer-text>It is human nature for children to develop the use of caretaker speech in order to take part effectively in conversations around them.</answer-text>
         </answer-list>
         <key>1</key>
-    </question>   
-                                                                                                                                             
+    </question>                                                                                                                                            
    
     <question type="multichoice" passage-file="ASR20P11.xml" skills="6">
         <question-text>According to paragraph 4, it is NOT expected that someone who believes in nurture over nature</question-text>

@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR22P00.xml'>
+   
+    <question type="multichoice" passage-file="ASR22P01.xml" skills="5">
+        <question-text>Based on the information in paragraph 1, who would have been most likely to own a car in 1900?</question-text>
+        <answer-list>
+            <answer-text>A skilled laborer</answer-text>
+            <answer-text>A successful investor</answer-text>
+            <answer-text>A scholarship student</answer-text>
+            <answer-text>A rural farmer</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>   
+
+    <question type="multichoice" passage-file="ASR22P02.xml" skills="1">
+        <question-text>The word <bg>frivolous</bg> in paragraph 1 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>trivial</aswer-text>
+            <answer-text>delicate</answer-text>
+            <answer-text>essential</answer-text>
+            <answer-text>natural</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+
+    <question type="multichoice" passage-file="ASR22P03.xml" skills="5">
+        <question-text>It is indicated in paragraph 1 that it was necessary to repair early autos because of</question-text>
+        <answer-list>
+            <answer-text>the elaborate engines</answer-text>
+            <answer-text>the lack of roads</answer-text>
+            <answer-text>the immature drivers</answer-text>
+            <answer-text>the rough roads</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+
+    <question type="multichoice" passage-file="ASR22P04.xml" skills="8">
+        <question-text>The author refers to <bg>four-legged engines</bg> in paragraph 1 in order to indicate that</question-text>
+        <answer-list>
+            <answer-text>early autos had little more than an engine and wheels</answer-text>
+            <answer-text>it was foolish· to travel on a four-legged animal</answer-text>
+            <answer-text>horses were an effective mode of transportation</answer-text>
+            <answer-text>automobile engines were evaluated in terms of their horsepower</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+
+    <question type='insert' passage-file='ASR22P05.xml' skills='4'>
+        <insert-text>
+            <b>These horrendous road conditions forced drivers to use their automobiles on grooved, rutted, and bumpy roads.</b>
+        </insert-text>
+        <key>3</key>
+    </question> 
+
+    <question type="multichoice" passage-file="ASR22P06.xml" skills="2">
+        <question-text>The phrase <bg>many others</bg> in paragraph 2 refers to</question-text>
+        <answer-list>
+            <answer-text>automobiles in the beginning of the twentieth century</answer-text>
+            <answer-text>today's models</answer-text>
+            <answer-text>electric models</answer-text>
+            <answer-text>electric charging stations</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>        
+
+    <question type="multichoice" passage-file="ASR22P07.xml" skills="5">
+        <question-text>It is stated in paragraph 2 that the owners of steam-powered cars</question-text>
+        <answer-list>
+            <answer-text>sometimes had to demonstrate knowledge of steam engineering</answer-text>
+            <answer-text>had to hire drivers to operate their cars</answer-text>
+            <answer-text>often had to take their automobiles to charging stations</answer-text>
+            <answer-text>were often in danger because of the limited range of their automobiles</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question> 
+
+    <question type="multichoice" passage-file="ASR22P08.xml" skills="8">
+        <question-text>Why does the author mention <bg>benches on wheels</bg> in paragraph 2?</question-text>
+        <answer-list>
+            <answer-text>To show how remarkably automobile design had progressed</answer-text>
+            <answer-text>To show that car designs of the time were neither complex nor comfortable</answer-text>
+            <answer-text>To indicate that early automobiles had upholstered chairs or sofas</answer-text>
+            <answer-text>To emphasize how the early automobiles were designed to absorb the pounding of the machine on the road</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR22P09.xml" skills="1">
+        <question-text>The word <bg>incessant</bg> in paragraph 2 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>heavy</answer-text>
+            <answer-text>bothersome</answer-text>
+            <answer-text>jolting</answer-text>
+            <answer-text>continual</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR22P10.xml" skills="1">
+        <question-text>The word <bg>fester</bg> in paragraph 3 could be best replaced by</question-text>
+        <answer-list>
+            <answer-text>full of</answer-text>
+            <answer-text>surrounded by</answer-text>
+            <answer-text>dangerous due to</answer-text>
+            <answer-text>occurring as a result of</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>                                                                                                                                                                                                               
+
+    <question type="multichoice" passage-file="ASR22P11.xml" skills="7">
+        <question-text>It can be inferred from paragraph 3 that the government of New York state believed that</question-text>
+        <answer-list>
+            <answer-text>all horseless vehicles should be banned from all public parks</answer-text>
+            <answer-text>strict speed limits should be placed on horse-drawn carriages</answer-text>
+            <answer-text>horseless and horse-drawn vehicles should not travel on the same roads</answer-text>
+            <answer-text>it was safer for cars to travel faster where there was less traffic and fewer people</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>          
+
+    <question type="multichoice" passage-file="ASR22P12.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>It was necessary to take a measured approach in dealing with inventions such as the automobile.</answer-text>
+            <answer-text>The various laws were needed because the use of automobiles grew so fast</answer-text>
+            <answer-text>The dramatic look of the automobile changed considerably over a short period of time.</answer-text>
+            <answer-text>It was important to lawmakers to discover the causes of the problems relating to automobiles.</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>                                                                                                                                            
+
+    <question type="multichoice" passage-file="ASR22P13.xml" skills="6">
+        <question-text>According to paragraph 3, it is NOT true that</question-text>
+        <answer-list>
+            <answer-text>the total cost of the automobiles sold in the United States in 1900 was around $5 million</answer-text>
+            <answer-text>sales of cars increased by more than 175,000 from 1900 to 1910</answer-text>
+            <answer-text>automobile manufacturing was the top U.S. industry in 1920</answer-text>
+            <answer-text>automobile manufacturing represented more than 5 percent of total U.S. manufacturing by 1925</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>      
+      
+</question-list>   
