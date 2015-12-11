@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
-<question-list type='read' passage-file='ASR11P0.xml'>
-<question type="multichoice" passage-file="ASR11P1.xml" skills="7">
+<question-list type='read' passage-file='ASR11P00.xml'>
+<question type="multichoice" passage-file="ASR11P01.xml" skills="7">
       <question-text>It can be inferred from paragraph 1 that, prior to November 2, 1920,</question-text>
       <answer-list>
          <answer-text>the results of the presidential election were actually known</answer-text>
@@ -13,7 +13,7 @@
 The passage states that <exp>the broadcast on November 2, 1920&#8230;is generally considered the first commercial U.S. radio broadcast</exp> and mentions <exp>wide-ranging efforts in the field of wireless communication in the decades that preceded it</exp>. It can be inferred from this that <exp>there may have been amateur broadcasts</exp> prior to November 2, 1920. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type="multichoice" passage-file="ASR11P2.xml" skills="7">
+<question type="multichoice" passage-file="ASR11P02.xml" skills="7">
       <question-text>It can be inferred from paragraph 2 that, prior to the 1870s,</question-text>
       <answer-list>
          <answer-text>Maxwell had already conceived the idea for radios</answer-text>
@@ -26,7 +26,7 @@ The passage states that <exp>the broadcast on November 2, 1920&#8230;is generall
 The passage states that <exp>the initial concept of wireless communication came about in 1873</exp>. It can be inferred from this that, prior to the 1870s, <exp>radios did not exist</exp>. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR11P3.xml" skills="8">
+<question type="multichoice" passage-file="ASR11P03.xml" skills="8">
       <question-text>The author mentions <bg>these initial stages</bg> in paragraph 3 in order to</question-text>
       <answer-list>
          <answer-text>initiate a discussion of traditional wired forms of communication</answer-text>
@@ -39,7 +39,7 @@ The passage states that <exp>the initial concept of wireless communication came 
 The first sentence of paragraph 2 mentions <exp>the initial concept</exp>, and the first sentence of paragraph 3 mentions <exp>these initial stages</exp>. From this, it can be determined that the author mentions <exp>these initial stages</exp> in paragraph 3 to <exp>relate the ideas in paragraph 3 to those that were presented in paragraph 2</exp>. The third answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR11P4.xml" skills="7">
+<question type="multichoice" passage-file="ASR11P04.xml" skills="7">
       <question-text>Based on the information in paragraph 3, it can be determined that the military was most likely interested in wireless communication because</question-text>
       <answer-list>
          <answer-text><exp>field units were unable to communicate by means of traditional wired forms of communication</exp></answer-text>
@@ -52,7 +52,7 @@ The first sentence of paragraph 2 mentions <exp>the initial concept</exp>, and t
 The passage states that <exp>wireless communication&#8230;quickly caught the interest of the military, which recognized the potential that it provided for communication among rapidly moving military units</exp>. From this, it can be determined that the military was most likely interested in wireless communication because <exp>field units were unable to communicate by means of traditional wired forms of communication</exp>. The first answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR11P5.xml" skills="8">
+<question type="multichoice" passage-file="ASR11P05.xml" skills="8">
       <question-text>Why does the author mention <bg>World War I</bg> in paragraph 3?</question-text>
       <answer-list>
          <answer-text>It provides one example of the many uses of commercial radio at the time.</answer-text>
@@ -65,7 +65,7 @@ The passage states that <exp>wireless communication&#8230;quickly caught the int
 The passage states that <exp>in the period preceding World War I, there was a considerable amount of controversy and competition among those seeking to garner patents and create business empires using wireless communication</exp> and that <exp>the cooperation among entrepreneurs in the field of wireless communication that resulted from the war effort led to a sense of cooperation following the war that was beneficial in the further development of the radio industry</exp>. From this, it can be determined that the author mentions <exp>World War I</exp> because <exp>it represents a point at which a critical change in the development of commercial radio broadcasting occurred</exp>. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR11P6.xml" skills="8">
+<question type="multichoice" passage-file="ASR11P06.xml" skills="8">
       <question-text>The author mentions <bg>the major players in the field</bg> in paragraph 4 in order to show that the organizations involved in radio communication</question-text>
       <answer-list>
          <answer-text>thought that radios would be used primarily for games</answer-text>
@@ -78,7 +78,7 @@ The passage states that <exp>in the period preceding World War I, there was a co
 The passage states that <exp>a short-lived agreement was reached by the major players in the field</exp> and that <exp>according to the terms of this agreement, American Telephone and Telegraph Company (AT&amp;T) would manufacture radio transmitters, General Electric (GE) and Westinghouse would manufacture radio receivers</exp>. From this, it can be determined that the author mentions <exp>the major players in the field</exp> in order to show that the organizations involved in radio communication <exp>were taking part in a competitive way</exp>. The third answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type="multichoice" passage-file="ASR11P7.xml" skills="7">
+<question type="multichoice" passage-file="ASR11P07.xml" skills="7">
       <question-text>It is implied in paragraph 4 that the 1920 agreement did not last for long because it was based on the idea that</question-text>
       <answer-list>
          <answer-text><exp>radios were to be used to communicate only between one sender and one receiver</exp></answer-text>
@@ -91,7 +91,7 @@ The passage states that <exp>a short-lived agreement was reached by the major pl
 The passage states that <exp>this agreement, however, was in existence for only a short time because it failed to take into account a new use for radio, that of radio broadcasting</exp>. This implies that the 1920 agreement did not last for long because it was based on the idea that <exp>radios were to be used to communicate only between one sender and one receiver</exp> rather than to broadcast from one sender to many receivers. The first answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR11P8.xml" skills="8">
+<question type="multichoice" passage-file="ASR11P08.xml" skills="8">
       <question-text>Why does the author mention the <bg>"mixing bowl"</bg> in paragraph 4?</question-text>
       <answer-list>
          <answer-text>To indicate that AT&amp;T, GE, and Westinghouse had merged into one company</answer-text>
@@ -104,7 +104,7 @@ The passage states that <exp>this agreement, however, was in existence for only 
 The passage states that <exp>the Radio Corporation of America (RCA), which was jointly owned by AT&amp;T, Westinghouse, and GE, would serve as the "mixing bowl" for the products and information for the three companies</exp>. From this, it can be determined that the author mentions the <exp>"mixing bowl"</exp> in order <exp>to create a mental image that RCA represented the combined interests of its three parent companies</exp>. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>      
-<question type="multichoice" passage-file="ASR11P9.xml" skills="7">
+<question type="multichoice" passage-file="ASR11P09.xml" skills="7">
       <question-text>It is implied in paragraph 5 that the earliest conception of radio communication was</question-text>
       <answer-list>
          <answer-text><exp>a single sender communicating with a single receiver</exp></answer-text>

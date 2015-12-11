@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
-<question-list type='read' passage-file='ASR07P0.xml'>
-<question type="multichoice" passage-file="ASR07P1.xml" skills="5">
+<question-list type='read' passage-file='ASR07P00.xml'>
+<question type="multichoice" passage-file="ASR07P01.xml" skills="5">
       <question-text>It is indicated in paragraph 2 that cocoa trees are native to</question-text>
       <answer-list>
          <answer-text><exp>South America</exp></answer-text>
@@ -13,7 +13,7 @@
 The passage states that <exp>cocoa trees are indigenous to South America's river valleys</exp>. This means that cocoa trees are native to <exp>South America</exp>. The first answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type="multichoice" passage-file="ASR07P2.xml" skills="5">
+<question type="multichoice" passage-file="ASR07P02.xml" skills="5">
       <question-text>It is mentioned in paragraph 2 that all of the following were involved in the cultivation of cocoa trees by the seventh century EXCEPT</question-text>
       <answer-list>
          <answer-text><exp>the Mayans</exp></answer-text>
@@ -26,7 +26,7 @@ The passage states that <exp>cocoa trees are indigenous to South America's river
 The passage states that <exp>by the seventh century, the Mayans had brought the trees north into Mexico, and numerous other cultures including the Aztecs and the Toltecs seem to have been involved in the production of cocoa trees</exp>. This means that <exp>the Mayans</exp> in the first answer, <exp>the Aztecs</exp> in the second answer, and <exp>the Toltecs</exp> in the third answer were involved in the cultivation of cocoa trees. All of the answers EXCEPT the last one are mentioned in paragraph 2. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>  
-<question type="multichoice" passage-file="ASR07P3.xml" skills="6">
+<question type="multichoice" passage-file="ASR07P03.xml" skills="6">
       <question-text>It is NOT stated in paragraph 2 that <i>cacahuatl</i> was</question-text>
       <answer-list>
          <answer-text>used as a currency</answer-text>
@@ -39,7 +39,7 @@ The passage states that <exp>by the seventh century, the Mayans had brought the 
 The passage mentions <exp>a special drink, <i>cacahuatl</i>, which was made&#8230;with red pepper</exp> and states that <exp>it was so bitter</exp>. This means that <i>cacahuatl</i> was <exp>a special drink</exp> in paragraph 2, <exp>rather spicy</exp> in the third answer, and <exp>rather bitter</exp> in the last answer. The first answer is the one that is NOT stated and is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR07P4.xml" skills="6">
+<question type="multichoice" passage-file="ASR07P04.xml" skills="6">
       <question-text>What is NOT listed in paragraph 3 as an ingredient in the paste developed by the Spanish?</question-text>
       <answer-list>
          <answer-text><exp>A sweetener</exp></answer-text>
@@ -52,7 +52,7 @@ The passage mentions <exp>a special drink, <i>cacahuatl</i>, which was made&#823
 The passage states that <exp>they created a paste by heating a mixture of ground sugar, cinnamon, cloves, anise, almonds, hazelnuts, vanilla, dried cocoa beans, and orange-flavored water</exp>. The ground sugar is <exp>a sweetener</exp> in the first answer; the cinnamon, cloves, and anise are <exp>spices</exp> in the second answer; and almonds and hazelnuts are <exp>nuts</exp> in the third answer. The last answer is the one that is NOT listed and is therefore the best answer to this question.
 </explain-text>
    </question>  
-<question type="multichoice" passage-file="ASR07P5.xml" skills="5">
+<question type="multichoice" passage-file="ASR07P05.xml" skills="5">
       <question-text>It is indicated in paragraph 3 that <i>chocolatl</i></question-text>
       <answer-list>
          <answer-text>contained plantain leaves</answer-text>
@@ -65,7 +65,7 @@ The passage states that <exp>they created a paste by heating a mixture of ground
 The passage states that <exp>they prepared a drink, which they called <i>chocolatl</i>, by dissolving pieces of the hardened paste into hot water or broth</exp>. This means that <i>chocolatl</i> <exp>was a hot beverage</exp>. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR07P6.xml" skills="5">
+<question type="multichoice" passage-file="ASR07P06.xml" skills="5">
       <question-text>It is stated in paragraph 4 that</question-text>
       <answer-list>
          <answer-text>chocolate appeared in England before it appeared in Spain</answer-text>
@@ -78,7 +78,7 @@ The passage states that <exp>they prepared a drink, which they called <i>chocola
 The passage mentions <exp>chocolate houses, which were fashionable versions of the coffeehouses that had sprung up in London in the 1600s.</exp> From this, it can be determined that <exp>coffeehouses were popular in London before chocolate houses were.</exp> The third answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR07P7.xml" skills="6">
+<question type="multichoice" passage-file="ASR07P07.xml" skills="6">
       <question-text>According to paragraph 5, it is NOT true that van Houten's invention was used to</question-text>
       <answer-list>
          <answer-text>press cocoa beans</answer-text>
@@ -91,7 +91,7 @@ The passage mentions <exp>chocolate houses, which were fashionable versions of t
 The passage states that <exp>Conrad van Houten invented a press that would squeeze much of the cocoa butter out of cocoa beans</exp>. This means that it is NOT true that van Houten's invention was used to <exp>mix cocoa butter and cocoa beans</exp>. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR07P8.xml" skills="5">
+<question type="multichoice" passage-file="ASR07P08.xml" skills="5">
       <question-text>Which of the following is true, according to paragraph 5?</question-text>
       <answer-list>
          <answer-text>It was easier to blend cocoa powder with sugar than it was to blend cocoa butter with sugar.</answer-text>
@@ -104,7 +104,7 @@ The passage states that <exp>Conrad van Houten invented a press that would squee
 The passage states that <exp>it was possible to create a much smoother and tastier drink by blending cocoa powder without the cocoa butter into hot liquids</exp>. This means that <exp>better drinks could be prepared using cocoa powder rather than cocoa butter</exp>. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR07P9.xml" skills="5">
+<question type="multichoice" passage-file="ASR07P09.xml" skills="5">
       <question-text>What 1870s innovation by Swiss candy makers is discussed in paragraph 5?</question-text>
       <answer-list>
          <answer-text>The creation of solid chocolate</answer-text>

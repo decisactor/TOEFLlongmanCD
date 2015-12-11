@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
-<question-list type='read' passage-file='ASR06P0.xml'>
-<question type="multichoice" passage-file="ASR06P1.xml" skills="1">
+<question-list type='read' passage-file='ASR06P00.xml'>
+<question type="multichoice" passage-file="ASR06P01.xml" skills="1">
       <question-text>The word <bg>blast</bg> in paragraph 1 is closest in meaning to</question-text>
       <answer-list>
          <answer-text>collapse</answer-text>
@@ -13,14 +13,14 @@
 The passage mentions <exp>a brilliant bluish-white fireball</exp> and states that <exp>it exploded</exp> and that <exp>the blast was heard 1,000 kilometers away</exp>.  From this context, it can be determined that <exp>blast</exp> is closest in meaning to <exp>explosion</exp>.  The third answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type='insert' passage-file='ASR06P2.xml' skills='4'>
+<question type='insert' passage-file='ASR06P02.xml' skills='4'>
 <insert-text><b><exp>There was so much haze</exp> that it could even be seen by astronomers on the other side of the world.</b></insert-text>
 <key>4</key>
 <explain-text>
 The passage mentions <exp>a glowing reddish haze</exp>.  A sentence stating that <exp>there was so much haze</exp> would logically follow such an idea.  The last square in paragraph 1 is therefore the best answer to this question.
 </explain-text>
 </question>      
-<question type="multichoice" passage-file="ASR06P3.xml" skills="2">
+<question type="multichoice" passage-file="ASR06P03.xml" skills="2">
       <question-text>The word <bg>it</bg> in paragraph 2 refers to</question-text>
       <answer-list>
          <answer-text><exp>an expedition</exp></answer-text>
@@ -33,7 +33,7 @@ The passage mentions <exp>a glowing reddish haze</exp>.  A sentence stating that
 The passage states that <exp>when an expedition finally went in search of the site of the blast, it found that the blast had occurred</exp>.  From this context, it can be determined that <exp>it</exp> refers to <exp>an expedition</exp>.  The first answer is therefore the best answer to this question.
 </explain-text>
    </question>  
-<question type="multichoice" passage-file="ASR06P4.xml" skills="1">
+<question type="multichoice" passage-file="ASR06P04.xml" skills="1">
       <question-text>The word <bg>radially</bg> in paragraph 2 is closest in meaning to</question-text>
       <answer-list>
          <answer-text>like the rings in a tree</answer-text>
@@ -46,7 +46,7 @@ The passage states that <exp>when an expedition finally went in search of the si
 The passage states that <exp>the remaining trees had been flattened radially away from the center of the blast</exp>.  From this context, it can be determined that <exp>radially</exp> is closest in meaning to <exp>like the spokes of a wheel</exp>.  The second answer is therefore the best answer to this question.
 </explain-text>
    </question>  
-<question type="multichoice" passage-file="ASR06P5.xml" skills="3">
+<question type="multichoice" passage-file="ASR06P05.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2?</question-text>
       <answer-list>
          <answer-text>Because branchless trees were still standing where they were located, investigators determined that the point of impact must be at least a few kilometers away.</answer-text>
@@ -59,7 +59,7 @@ The passage states that <exp>the remaining trees had been flattened radially awa
 The highlighted sentence states that <exp>no discernible crater was in evidence</exp>, which means that <exp>there was no apparent crater at the center of the blast area</exp>, and that <exp>it was concluded that a huge explosion must have taken place at least a few kilometers above the blast area</exp>, which means that <exp>it was concluded that the explosion took place above the surface of the Earth</exp>.  The second answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type="multichoice" passage-file="ASR06P6.xml" skills="2">
+<question type="multichoice" passage-file="ASR06P06.xml" skills="2">
       <question-text>The word <bg>it</bg> in paragraph 3 refers to</question-text>
       <answer-list>
          <answer-text><exp>the event</exp></answer-text>
@@ -72,7 +72,7 @@ The highlighted sentence states that <exp>no discernible crater was in evidence<
 The passage states that <exp>the event at Tunguska was so unusual</exp> and mentions <exp>hypotheses&#8230;to explain it</exp>.  From this context, it can be determined that <exp>it</exp> refers to <exp>the event</exp>.  The first answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR06P7.xml" skills="3">
+<question type="multichoice" passage-file="ASR06P07.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
       <answer-list>
          <answer-text>The main hypothesis was that an enemy airforce from another country was attempting to land near a nuclear reactor.</answer-text>
@@ -85,7 +85,7 @@ The passage states that <exp>the event at Tunguska was so unusual</exp> and ment
 The highlighted sentence states that <exp>one hypothesis was that an alien spaceship</exp> with <exp>a malfunctioning nuclear reactor&#8230;exploded</exp>, which means that <exp>some people believed that the explosion occurred when a ship from outer space had mechanical problems</exp>.  The last answer is therefore the best answer to this question.
 </explain-text>
    </question>  
-<question type="multichoice" passage-file="ASR06P8.xml" skills="2">
+<question type="multichoice" passage-file="ASR06P08.xml" skills="2">
       <question-text>The word <bg>some</bg> in paragraph 4 refers to</question-text>
       <answer-list>
          <answer-text><exp>astronomers</exp></answer-text>
@@ -98,7 +98,7 @@ The highlighted sentence states that <exp>one hypothesis was that an alien space
 The passage mentions <exp>what many astronomers now suspect</exp> and states that <exp>there are some who oppose this view</exp>.  From this context, it can be determined that <exp>some</exp> refers to <exp>astronomers</exp>.  The first answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR06P9.xml" skills="1">
+<question type="multichoice" passage-file="ASR06P09.xml" skills="1">
       <question-text>The phrase <bg>was heading for</bg> in paragraph 4 is closest in meaning to</question-text>
       <answer-list>
          <answer-text>was topping</answer-text>

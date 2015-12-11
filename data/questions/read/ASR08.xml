@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
-<question-list type='read' passage-file='ASR08P0.xml'>
-<question type="multichoice" passage-file="ASR08P1.xml" skills="6">
+<question-list type='read' passage-file='ASR08P00.xml'>
+<question type="multichoice" passage-file="ASR08P01.xml" skills="6">
       <question-text>It is mentioned in paragraph 1 that Will Rogers was known for all of the following EXCEPT for his work</question-text>
       <answer-list>
          <answer-text>as a rancher</answer-text>
@@ -13,7 +13,7 @@
 The passage states that <exp>he reached a wide following with his stage act, lectures, newspaper and magazine articles, films, radio broadcasts, and books</exp>. This means that paragraph 1 mentions his work<exp> as a speaker</exp> giving lectures, his work <exp>as a writer</exp> of newspaper and magazine articles and books, and his work <exp>as an actor</exp> in films. The first answer is the one that is not mentioned and is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type="multichoice" passage-file="ASR08P2.xml" skills="5">
+<question type="multichoice" passage-file="ASR08P02.xml" skills="5">
       <question-text>According to paragraph 2, when Will Rogers was born, his family was</question-text>
       <answer-list>
          <answer-text>friendly</answer-text>
@@ -26,7 +26,7 @@ The passage states that <exp>he reached a wide following with his stage act, lec
 The passage states that Will Rogers was <exp>the youngest of eight children of a comfortable Oklahoma family</exp>. This means that, when he was born, his family was <exp>well-off</exp>. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR08P3.xml" skills="6">
+<question type="multichoice" passage-file="ASR08P03.xml" skills="6">
       <question-text>According to paragraph 2, it is NOT true that Will Rogers</question-text>
       <answer-list>
          <answer-text><exp>was a good student</exp></answer-text>
@@ -39,7 +39,7 @@ The passage states that Will Rogers was <exp>the youngest of eight children of a
 The passage states that <exp>he was not a very dedicated student</exp>. This means that it is NOT true that Will Rogers <exp>was a good student</exp>. The first answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type="multichoice" passage-file="ASR08P4.xml" skills="5">
+<question type="multichoice" passage-file="ASR08P04.xml" skills="5">
       <question-text>It is NOT mentioned in paragraph 2 that Will Rogers</question-text>
       <answer-list>
          <answer-text><exp>took part in a Western show in South Africa</exp></answer-text>
@@ -52,7 +52,7 @@ The passage states that <exp>he was not a very dedicated student</exp>. This mea
 The passage states that <exp>he worked as a trick rider in Texas Jack's Wild West Show in South Africa and later toured around Australia and New Zealand with a circus</exp> and that he <exp>began working in vaudeville shows in New York City as a trick roper</exp>. This means that it is mentioned that Will Rogers <exp>took part in a Western show in South Africa</exp> in the first answer, that he <exp>traveled with a circus in Australia</exp> in the second answer, and that he <exp>worked as a trick roper in New York</exp> in the last answer. The third answer is the one that is NOT mentioned and is therefore the best answer to this question.
 </explain-text>
    </question>   
-<question type="multichoice" passage-file="ASR08P5.xml" skills="5">
+<question type="multichoice" passage-file="ASR08P05.xml" skills="5">
       <question-text>It is indicated in paragraph 2 that Will Rogers first became successful when he</question-text>
       <answer-list>
          <answer-text>began telling jokes during his nightclub act</answer-text>
@@ -65,7 +65,7 @@ The passage states that <exp>he worked as a trick rider in Texas Jack's Wild Wes
 The passage mentions <exp>vaudeville shows in New York City as a trick roper</exp> and then states that <exp>he experienced his first success as a performer when he began telling jokes during his act</exp>. This means that Will Rogers first became successful when he <exp>introduced humor into his vaudeville act</exp>. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>       
-<question type="multichoice" passage-file="ASR08P6.xml" skills="5">
+<question type="multichoice" passage-file="ASR08P06.xml" skills="5">
       <question-text>It is stated in paragraph 3 that Will Rogers' act with the Ziegfeld Follies was</question-text>
       <answer-list>
          <answer-text>on stage for only a year</answer-text>
@@ -78,7 +78,7 @@ The passage mentions <exp>vaudeville shows in New York City as a trick roper</ex
 The passage states that <exp>Rogers was hired by the Ziegfeld Follies and quickly became a star of the show</exp>. This means that his act with the Ziegfeld Follies was <exp>well-received</exp>. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>          
-<question type="multichoice" passage-file="ASR08P7.xml" skills="5">
+<question type="multichoice" passage-file="ASR08P07.xml" skills="5">
       <question-text>According to paragraph 3, Will Rogers' 1919 publications were based upon</question-text>
       <answer-list>
          <answer-text>newspaper stories that he wrote</answer-text>
@@ -91,7 +91,7 @@ The passage states that <exp>Rogers was hired by the Ziegfeld Follies and quickl
 The passage states that <exp>using newspaper stories as his source material, he was able to come up with comic material for three shows daily with the Follies</exp> and that <exp>by 1919, he had gathered enough successful jokes to create two collections of his humor</exp>. This means that Will Rogers' 1919 publications were based on <exp>humor from his act about current events</exp>. The third answer is therefore the best answer to this question.
 </explain-text>
    </question>             
-<question type="multichoice" passage-file="ASR08P8.xml" skills="5">
+<question type="multichoice" passage-file="ASR08P08.xml" skills="5">
       <question-text>It is stated in paragraph 4 that in 1918 Will Rogers</question-text>
       <answer-list>
          <answer-text>settled permanently in California</answer-text>
@@ -104,7 +104,7 @@ The passage states that <exp>using newspaper stories as his source material, he 
 The passage states that <exp>in 1918, he returned to New York, where he immediately found a different forum for his humorous commentary as an after-dinner speaker</exp>. This means that in 1918 Will Rogers <exp>found work as a public speaker</exp>. The third answer is therefore the best answer to this question.
 </explain-text>
    </question>                  
-<question type="multichoice" passage-file="ASR08P9.xml" skills="6">
+<question type="multichoice" passage-file="ASR08P09.xml" skills="6">
       <question-text>According to paragraph 4, it is NOT true that Will Rogers' newspaper columns</question-text>
       <answer-list>
          <answer-text>first appeared in 1922</answer-text>

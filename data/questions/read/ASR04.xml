@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
-<question-list type='read' passage-file='ASR04P0.xml'>
-<question type="multichoice" passage-file="ASR04P1.xml" skills="3">
+<question-list type='read' passage-file='ASR04P00.xml'>
+<question type="multichoice" passage-file="ASR04P01.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1?</question-text>
       <answer-list>
          <answer-text>They originally intended to make computers only for themselves, but soon they were making computers for friends.</answer-text>
@@ -13,14 +13,14 @@
 The highlighted sentence states that <exp>this goal soon changed</exp>, which means that <exp>their plan changed</exp>, that <exp>their initial idea was to assemble computers for&#8230;personal computer hobbyists</exp>, which means that their initial plan was <exp>one of assembling computers for those already knowledgeable in computers</exp>, and that the plans changed to <exp>one of making computer technology more widely available to nontechnical consumers</exp>, which means that it changed to <exp>introducing computers to those who were not</exp> knowledgeable in computers. The third answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type='insert' passage-file='ASR04P2.xml' skills='4'>
+<question type='insert' passage-file='ASR04P02.xml' skills='4'>
 <insert-text><b>They intended to change <exp>this public perception of computers</exp>.</b></insert-text>
 <key>4</key>
 <explain-text>
 The passage states that <exp>most consumers at the time thought of computers as playthings for hobbyists and as too expensive and too complex for general use.</exp> A sentence mentioning <exp>this public perception of computers</exp> would logically follow such an idea. The last square in paragraph 1 is therefore the best answer to this question.
 </explain-text>
 </question>
-<question type="multichoice" passage-file="ASR04P3.xml" skills="3">
+<question type="multichoice" passage-file="ASR04P03.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2?</question-text>
       <answer-list>
          <answer-text><exp>The product name was chosen to make their product appealing to the nontechnical market.</exp></answer-text>
@@ -33,14 +33,14 @@ The passage states that <exp>most consumers at the time thought of computers as 
 The highlighted sentences states that <exp>the name Apple was selected because</exp> it was <exp>nontechnical, nonthreatening,</exp> and <exp>would not be off-putting to their intended market</exp>. This means that <exp>the product name was chosen to make their product more appealing to the nontechnical market.</exp> The first answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type='insert' passage-file='ASR04P4.xml' skills='4'>
+<question type='insert' passage-file='ASR04P04.xml' skills='4'>
 <insert-text><b>It may seem surprising, but <exp>that was all that was needed to start their company</exp>.</b></insert-text>
 <key>2</key>
 <explain-text>
 The passage states that <exp>Jobs and Wozniak raised $1,300 to start a company.</exp> A sentence stating that <exp>that was all that was needed to start their company</exp> would logically follow such an idea. The second square in paragraph 2 is therefore the answer to this question.
 </explain-text>
 </question>
-<question type="multichoice" passage-file="ASR04P5.xml" skills="3">
+<question type="multichoice" passage-file="ASR04P05.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
       <answer-list>
          <answer-text>Even though <exp>Apple I users needed to have a lot of technical knowledge, orders surprisingly reached 600.</exp></answer-text>
@@ -53,14 +53,14 @@ The passage states that <exp>Jobs and Wozniak raised $1,300 to start a company.<
 The highlighted sentence states that <exp>the Apple I required the user to have a fair amount of technical knowledge</exp>, which means that <exp>Apple I users needed to have a lot of technical knowledge</exp>, and that <exp>orders for this machine&#8230;quickly reached the unbelievably high level of 600</exp>, which means that <exp>orders surprisingly reached 600</exp>. The first answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type='insert' passage-file='ASR04P6.xml' skills='4'>
+<question type='insert' passage-file='ASR04P06.xml' skills='4'>
 <insert-text><b><exp>This machine was named the Apple I</exp>.</b></insert-text>
 <key>2</key>
 <explain-text>
 The passage mentions <exp>their first model</exp>. A sentence stating that <exp>this machine was named the Apple I</exp> would logically follow such an idea. The second square in paragraph 4 is therefore the best answer to this question.
 </explain-text>
 </question>
-<question type="multichoice" passage-file="ASR04P7.xml" skills="3">
+<question type="multichoice" passage-file="ASR04P07.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 4?</question-text>
       <answer-list>
          <answer-text>The special ad-on devices and software programs caused demand for the Apple II to increase.</answer-text>
@@ -73,7 +73,7 @@ The passage mentions <exp>their first model</exp>. A sentence stating that <exp>
 The highlighted sentence states that <exp>demand for this new version of the Apple quickly soared</exp>, which means that <exp>the Apple II was so popular</exp>, and that this <exp>inspired numerous other companies to created ad-on devices and software programs that could be used in conjunction with it</exp>, which means that <exp>other companies created products to go along with it</exp>. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type="multichoice" passage-file="ASR04P8.xml" skills="3">
+<question type="multichoice" passage-file="ASR04P08.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 5?</question-text>
       <answer-list>
          <answer-text>The company's personnel focused its attention on leaders, on investments, on marketing to computer hobbyists, and on improving initial computer purchases over peripherals.</answer-text>
@@ -87,7 +87,7 @@ The highlighted sentence states that <exp>demand for this new version of the App
 The highlighted sentences mentions <exp>the company's strategic plan</exp>, and its emphasis on <exp>personnel,&#8230;innovation,&#8230;research and development&#8230;</exp>, the desire <exp>to expand their market&#8230;</exp> and <exp>&#8230;peripheral products</exp>. This means that <exp>the company had a strategic plan that involved emphasis on strong personnel, innovation, research and development, market expansion, and development of peripheral products.</exp> The third answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type='insert' passage-file='ASR04P9.xml' skills='4'>
+<question type='insert' passage-file='ASR04P09.xml' skills='4'>
 <insert-text><b>To do so, they brought in <exp>a number of new employees</exp>.</b></insert-text>
 <key>2</key>
 <explain-text>

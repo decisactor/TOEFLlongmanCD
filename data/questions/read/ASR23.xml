@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR23P00.xml'>
+
+	<question type='select.1' passage-file='ASR23P01.xml' skills='9'>
+        <direction-text>An introductory sentence or a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage.  <i><b>This question is worth 2 points.</b></i>
+        </direction-text>
+        
+        <intro-text>
+            <b>processes affecting the development of millions of species</b>
+        </intro-text>
+        
+        <answer-list>
+            <answer>
+                <answer-text>One model looks at how satisfied all participants are after a given decision has been made.</answer-text>
+            </answer>
+            <answer>
+                <answer-text>One model looks at how organizational structure and procedures influence a decision and how much a decision has been limited by these procedures.</answer-text>
+            </answer>
+            <answer>
+                <answer-text>One model looks at how much a decision-making process has been manipulated and limited by factions within the organization.</answer-text>
+            </answer>
+            <answer>
+                <answer-text>One model looks at how rational actors are able to work within organizational structures and routines to achieve optimal solutions.</answer-text>
+            </answer>
+            <answer>
+                <answer-text>One model looks at how the decision-making process differs in diverse areas such as psychology, sociology, business, government, history, mathematics, and statistics.</answer-text>
+            </answer>
+            <answer>
+                <answer-text>One model looks at how well a decision maker has analyzed a problem and possible solutions to achieve the optimal solution.</answer-text>
+            </answer>
+        </answer-list>
+        
+        <key>0.2..5</key>
+    
+    </question>  
+               
+	<question type='select.2' passage-file='ASR23P02.xml' skills='10'>
+		<direction-text>Select the appropriate phrases from the answer choices and match them to the type of aphasia to which they relate. TWO of the answer choices will NOT be used. <i><b>This question is worth 3 points.</b></i></direction-text>
+		<key>2.03.25</key>
+	
+		<category-list>
+			<category>
+				<category-text><b>speciation</b></category-text>
+			</category>
+			<category>
+				<category-text><b>extinction</b></category-text>
+			</category>
+		</category-list>
+
+		<answer-list>
+			<answer>
+				<answer-text>Often makes it difficult for a sufferer to understand others</answer-text>
+			</answer>
+			<answer>
+				<answer-text>Is used in a different way from its literal meaning of "without speech"</answer-text>
+			</answer>
+			<answer>
+				<answer-text>Can result from damage to an area of the brain in front of and above the left ear</answer-text>
+			</answer>
+			<answer>
+				<answer-text>Makes it difficult for someone to speak fluently</answer-text>
+			</answer>
+			<answer>
+				<answer-text>Does not generally inhibit the ability to speak fluently</answer-text>
+			</answer>
+			<answer>
+				<answer-text>Always results from damage to the left side of the brain</answer-text>
+			</answer>
+			<answer>
+				<answer-text>Does not generally inhibit understanding of others</answer-text>
+			</answer>
+			<answer>
+				<answer-text>Can result from damage to an area in the back of the brain and under the left ear</answer-text>
+			</answer>
+		</answer-list>
+		
+	</question>
+	
+</question-list>
+
+

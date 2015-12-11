@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
-<question-list type='read' passage-file='ASR13P0.xml'>
-<question type='select.1' passage-file='ASR13P1.xml' skills='9'>
+<question-list type='read' passage-file='ASR13P00.xml'>
+<question type='select.1' passage-file='ASR13P01.xml' skills='9'>
 <direction-text>Select the appropriate sentences from the answer choices that are key points in a discussion of <exp>how well various publishers succeeded in creating adless newspapers</exp>. <i><b>This question is worth 3 points.</b></i></direction-text>
 <intro-text><b>How well various publishers succeeded in creating adless newspapers</b></intro-text>
 <answer-list>

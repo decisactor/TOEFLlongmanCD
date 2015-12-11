@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
-<question-list type='read' passage-file='ASR05P0.xml'>
-<question type="multichoice" passage-file="ASR05P1.xml" skills="3">
+<question-list type='read' passage-file='ASR05P00.xml'>
+<question type="multichoice" passage-file="ASR05P01.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1?</question-text>
       <answer-list>
          <answer-text><exp>Jefferson differed considerably from the two presidents that preceded him.</exp></answer-text>
@@ -13,14 +13,14 @@
 The highlighted sentence mentions <exp>Thomas Jefferson, the third president&#8230;with a marked difference from his two Federalist predecessors,</exp> which means that <exp>Jefferson differed considerably from the two presidents that preceded him</exp>. The first answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type='insert' passage-file='ASR05P2.xml' skills='4'>
+<question type='insert' passage-file='ASR05P02.xml' skills='4'>
 <insert-text><b><exp>He chose to do this rather than riding</exp> in an elaborate carriage flanked by an elaborate honor guard, as his two predecessors had.</b></insert-text>
 <key>3</key>
 <explain-text>
 The passage mentions <exp>Jefferson&#8230;choosing to walk to his inauguration</exp>. A sentence stating that <exp>he chose to do this rather than riding</exp> would logically follow such a sentence. The third square in paragraph 1 is therefore the best answer to this question.
 </explain-text>
 </question>
-<question type="multichoice" passage-file="ASR05P3.xml" skills="3">
+<question type="multichoice" passage-file="ASR05P03.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2?</question-text>
       <answer-list>
          <answer-text>After working in a factory in England, Jefferson was quite aware of the poor working conditions there.</answer-text>
@@ -33,14 +33,14 @@ The passage mentions <exp>Jefferson&#8230;choosing to walk to his inauguration</
 The highlighted sentence states that <exp>he was opposed to the development of the factory system</exp>, which means that <exp>Jefferson did not want a similar factory system</exp>, and that he had <exp>witnessed...conditions...in England</exp>, which refers to <exp>what he had seen in England</exp>. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type='insert' passage-file='ASR05P4.xml' skills='4'>
+<question type='insert' passage-file='ASR05P04.xml' skills='4'>
 <insert-text><b><exp>He was adamant in his opposition</exp> because of the type of society he felt that industrialization would create.</b></insert-text>
 <key>3</key>
 <explain-text>
 The passage states that <exp>he was opposed to the development of the factory system</exp>. A sentence stating that <exp>he was adamant in his opposition</exp> would logically follow such a sentence. The third square in paragraph 2 is therefore the best answer to this question.
 </explain-text>
 </question>
-<question type="multichoice" passage-file="ASR05P5.xml" skills="3">
+<question type="multichoice" passage-file="ASR05P05.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
       <answer-list>
          <answer-text>Jefferson believed that it was impossible for farmers to create a republic.</answer-text>
@@ -53,14 +53,14 @@ The passage states that <exp>he was opposed to the development of the factory sy
 The highlighted sentence mentions <exp>the core of Jefferson's beliefs</exp>, which means that <exp>Jefferson believed</exp>, and states that <exp>the best way for the young United States&#8230;was as an agrarian republic</exp>, which means that <exp>the United States should be a country based on farming</exp>. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type='insert' passage-file='ASR05P6.xml' skills='4'>
+<question type='insert' passage-file='ASR05P06.xml' skills='4'>
 <insert-text><b>Strongly believing that <exp>industrialization</exp> was not the best direction for the United States to take, Jefferson envisioned <exp>a very different path</exp>.</b></insert-text>
 <key>1</key>
 <explain-text>
 The last sentence of paragraph 2 mentions <exp>an industrialized society</exp>, and the first sentence of paragraph 3 mentions <exp>an agrarian republic</exp>. A sentence that mentions <exp>industrialization</exp> and <exp>a very different path</exp> would logically come between these two sentences. The first square in paragraph 3 is therefore the best answer to this question.
 </explain-text>
 </question>
-<question type="multichoice" passage-file="ASR05P7.xml" skills="3">
+<question type="multichoice" passage-file="ASR05P07.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 4?</question-text>
       <answer-list>
          <answer-text>Jefferson agreed with the ideas in the essay, saying that it was the role of a strong country to feed its population.</answer-text>
@@ -73,14 +73,14 @@ The last sentence of paragraph 2 mentions <exp>an industrialized society</exp>, 
 The highlighted sentence states that <exp>Jefferson&#8230;countered the alarm raised by the essay</exp>, which means that <exp>Jefferson opposed the ideas in the essay</exp>, and discusses <exp>the idea that the United States would always be able to feed its population if it developed a strong agrarian society</exp>, which refers to his belief <exp>that a country of farmers would always have enough food</exp>. The third answer is therefore the best answer to this question.
 </explain-text>
    </question>
-<question type='insert' passage-file='ASR05P8.xml' skills='4'>
+<question type='insert' passage-file='ASR05P08.xml' skills='4'>
 <insert-text><b>This was <exp>a widely read work by Englishman Thomas Maltus</exp>.</b></insert-text>
 <key>1</key>
 <explain-text>
 The passage mentions <exp>"Essay on the Principle of Population."</exp> A sentence mentioning <exp>a widely read work by Englishman Thomas Maltus</exp> would logically follow such a sentence. The first square in paragraph 4 is therefore the best answer to this question.
 </explain-text>
 </question>
-<question type="multichoice" passage-file="ASR05P9.xml" skills="3">
+<question type="multichoice" passage-file="ASR05P09.xml" skills="3">
       <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 5?</question-text>
       <answer-list>
          <answer-text>Jefferson wanted to expand the republican government to include more civically oriented citizens.</answer-text>

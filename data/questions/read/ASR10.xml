@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<question-list type="read" passage-file="ASR10P0.xml">
-   <question type="multichoice" passage-file="ASR10P1.xml" skills="8">
+<question-list type="read" passage-file="ASR10P00.xml">
+   <question type="multichoice" passage-file="ASR10P01.xml" skills="8">
       <question-text>The author mentions <bg>its importance as a key transportation route predates the race considerably</bg> in paragraph 1 in order to show</question-text>
       <answer-list>
          <answer-text>that a discussion of the various dates of the race follows</answer-text>
@@ -15,7 +15,7 @@
 The first paragraph ends with the idea that <exp>its importance as a key transportation route predates the race considerably</exp>, and the first sentence of the second paragraph states that <exp>the Iditarod Trail has been in existence for some time</exp>. From this, it can be determined that the author includes the idea that <exp>its importance&#8230;predates the race</exp> in order to show <exp>that the history of the Iditarod Trail prior to the 1925 serum run follows</exp> in paragraph 2. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>
-   <question type="multichoice" passage-file="ASR10P2.xml" skills="7">
+   <question type="multichoice" passage-file="ASR10P02.xml" skills="7">
       <question-text>It can be determined from paragraph 2 that which of the following most likely had a part in the initial blazing of the Iditarod Trail?</question-text>
       <answer-list>
          <answer-text>
@@ -30,7 +30,7 @@ The first paragraph ends with the idea that <exp>its importance as a key transpo
 The passage states that <exp>the trail was initially blazed by migrating wildlife</exp>. From this, it can be determined that <exp>caribou and deer</exp> most likely had a part in the initial blazing of the Iditarod Trail. The first answer is therefore the best answer to this question.
 </explain-text>
    </question>
-   <question type="multichoice" passage-file="ASR10P3.xml" skills="7">
+   <question type="multichoice" passage-file="ASR10P03.xml" skills="7">
       <question-text>A <bg>musher</bg> in paragraph 3 is most likely</question-text>
       <answer-list>
          <answer-text>the cargo carried by a dogsled</answer-text>
@@ -45,7 +45,7 @@ The passage states that <exp>the trail was initially blazed by migrating wildlif
 The passage mentions <exp>teams of up to 25 dogs pulling a sled and musher across the snow</exp> and states that <exp>mushers&#8230;began racing their teams</exp>. From this, it can be determined that a <exp>musher</exp> is most likely <exp>a person who drives a dogsled</exp>. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>
-   <question type="multichoice" passage-file="ASR10P4.xml" skills="8">
+   <question type="multichoice" passage-file="ASR10P04.xml" skills="8">
       <question-text>Why does the author mention <bg>All-Alaska Sweepstakes</bg> in paragraph 3?</question-text>
       <answer-list>
          <answer-text>It explains a key event in the blazing of the Iditarod Trail.</answer-text>
@@ -59,7 +59,7 @@ The passage mentions <exp>teams of up to 25 dogs pulling a sled and musher acros
 The passage states that <exp>dogsleds&#8230;came to be seen as a form of entertainment as mushers, in order to keep their dogs fit through the coldest winter months began racing their teams</exp> and that <exp>the All-Alaska Sweepstakes</exp> was <exp>a 408-mile race&#8230;among mushers who were training their teams in winter</exp>. From this, it can be determined that the author mentions the <exp>All-Alaska Sweepstakes</exp> as <exp>an example of a race that was both necessary and entertaining</exp>. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>
-   <question type="multichoice" passage-file="ASR10P5.xml" skills="7">
+   <question type="multichoice" passage-file="ASR10P05.xml" skills="7">
       <question-text>What can be inferred from paragraph 4 about diphtheria?</question-text>
       <answer-list>
          <answer-text>It is not a really dangerous disease.</answer-text>
@@ -72,7 +72,7 @@ The passage states that <exp>dogsleds&#8230;came to be seen as a form of enterta
 The passage states that <exp>diphtheria posed a significant threat in that an epidemic could conceivably kill thousands of people, particularly the native inhabitants who had little or no resistance to diseases from the outside world</exp>. From this, it can be inferred that diphtheria <exp>is not native to Alaska</exp>. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>
-   <question type="multichoice" passage-file="ASR10P6.xml" skills="8">
+   <question type="multichoice" passage-file="ASR10P06.xml" skills="8">
       <question-text>Why does the author mention <bg>a million units of antitoxin serum</bg> in paragraph  4?</question-text>
       <answer-list>
          <answer-text>
@@ -87,7 +87,7 @@ The passage states that <exp>diphtheria posed a significant threat in that an ep
 The passage states that <exp>a million units of antitoxin serum were available in Anchorage, but there was no easy way to transport the antitoxin from Anchorage to Nome in the middle of the winter</exp>. From this, it can be determined that the author mentions <exp>a million units of antitoxin to emphasize that the main problem was not the availability of serum</exp>. The first answer is therefore the best answer to this question.
 </explain-text>
    </question>
-   <question type="multichoice" passage-file="ASR10P7.xml" skills="7">
+   <question type="multichoice" passage-file="ASR10P07.xml" skills="7">
       <question-text>It is implied in paragraph 4 that the sea route from Anchorage to Nome</question-text>
       <answer-list>
          <answer-text>is dangerous all year round</answer-text>
@@ -102,7 +102,7 @@ The passage states that <exp>a million units of antitoxin serum were available i
 The passage states that <exp>sea travel from Anchorage to Nome was impossible at that time of year because the Bering Sea was frozen over</exp>. It is implied in this statement that the sea route from Anchorage to Nome <exp>traverses the Bering Sea</exp>. The last answer is therefore the best answer to this question.
 </explain-text>
    </question>
-   <question type="multichoice" passage-file="ASR10P8.xml" skills="8">
+   <question type="multichoice" passage-file="ASR10P08.xml" skills="8">
       <question-text>The author states that <bg>from the time that the serum was received, no further deaths resulted from the diphtheria outbreak</bg> in paragraph 5 in order to</question-text>
       <answer-list>
          <answer-text>show that diphtheria is not really harmful</answer-text>
@@ -117,7 +117,7 @@ The passage states that <exp>sea travel from Anchorage to Nome was impossible at
 The passage states that <exp>the serum arrived in Nome early in the morning on February 2 and was immediately put into use</exp>. From this, it can be determined that the author states that <exp>from the time that the serum was received, no further deaths resulted from the diptheria outbreak</exp> in order to <exp>demonstrate how helpful the serum run was</exp>. The second answer is therefore the best answer to this question.
 </explain-text>
    </question>
-   <question type="multichoice" passage-file="ASR10P9.xml" skills="8">
+   <question type="multichoice" passage-file="ASR10P09.xml" skills="8">
       <question-text>It can be determined from paragraph 6 that Alaska was purchased by the United States</question-text>
       <answer-list>
          <answer-text>in 1667</answer-text>
