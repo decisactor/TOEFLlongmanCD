@@ -611,20 +611,15 @@
     </toolbar>
     <menu title='Main Menu' color='foreground' width='450' height='33' gap='16' toolbar='root'>
         <menu-item title='Overview' action='overview'/>
-        
-        <menu-item title='Pre-Tests' action='menu'>
-            <menu title='Pre-Tests Menu' color='read' width='450' height='33' gap='16' toolbar='read'>
-                <menu-item title='Reading Pre-Test' action='read.r.1'/>
-                <menu-item title='Listening Pre-Test' action='listen.r.1'/>
-                <menu-item title='Speaking Pre-Test' action='speak.r.1'/>
-                <menu-item title='Writing Pre-Test' action='write.r.1'/>
-            </menu>
-        </menu-item>
-        
+
         <menu-item title='Skills' action='menu'>
+        
             <menu title='Skills Menu' color='foreground' width='450' height='33' gap='16' toolbar='branch'>
+       
                 <menu-item title='Reading' action='menu'>
+                
                     <menu title='Skills - Reading' color='read' width='450' height='33' gap='16' toolbar='read'>
+                    
                         <menu-item title='Vocabulary and Reference' action='menu'>
                             <menu title='Skills - Vocabulary and Reference' color='read' width='450' height='33' gap='16' toolbar='read'>
                                 <menu-item title='Passage 1 (Skills 1-2)' action='read.1.1'/>
@@ -633,6 +628,7 @@
                                 <menu-item title='Passage 4 (Skills 1-2)' action='read.1.4'/>
                             </menu>
                         </menu-item>
+                        
                         <menu-item title='Sentences' action='menu'>
                             <menu title='Skills - Sentences' color='read' width='450' height='33' gap='16' toolbar='read'>
                                 <menu-item title='Passage 1 (Skills 3-4)' action='read.2.1'/>
@@ -642,6 +638,7 @@
                                 <menu-item title='Passage 5 (Skills 1-4)' action='read.2.5'/>
                             </menu>
                         </menu-item>
+                        
                         <menu-item title='Details' action='menu'>
                             <menu title='Skills - Details' color='read' width='450' height='33' gap='16' toolbar='read'>
                                 <menu-item title='Passage 1 (Skills 5-6)' action='read.3.1'/>
@@ -651,6 +648,7 @@
                                 <menu-item title='Passage 5 (Skills 1-6)' action='read.3.5'/>
                             </menu>
                         </menu-item>
+                        
                         <menu-item title='Inferences' action='menu'>
                             <menu title='Skills - Inferences' color='read' width='450' height='33' gap='16' toolbar='read'>
                                 <menu-item title='Passage 1 (Skills 7-8)' action='read.4.1'/>
@@ -660,6 +658,7 @@
                                 <menu-item title='Passage 5 (Skills 1-8)' action='read.4.5'/>
                             </menu>
                         </menu-item>
+                        
                         <menu-item title='Reading to Learn' action='menu'>
                             <menu title='Skills - Reading to Learn' color='read' width='450' height='33' gap='16' toolbar='read'>
                                 <menu-item title='Passage 1 (Skills 9-10)' action='read.5.1'/>
@@ -669,8 +668,10 @@
                                 <menu-item title='Passage 5 (Skills 1-10)' action='read.5.5'/>
                             </menu>
                         </menu-item>
+                        
                     </menu>
                 </menu-item>
+                
                 <menu-item title='Listening' action='menu'>
                     <menu title='Skills - Listening' color='listen' width='450' height='33' gap='16' toolbar='listen'>
                         <menu-item title='Basic Comprehension' action='menu'>
@@ -765,16 +766,7 @@
                 </menu-item>
             </menu>
         </menu-item>
-        
-        <menu-item title='Post-Tests' action='menu'>
-            <menu title='Post-Tests Menu' color='read' width='450' height='33' gap='16' toolbar='read'>
-                <menu-item title='Reading Post-Test' action='read.o.1'/>
-                <menu-item title='Listening Post-Test' action='listen.o.1'/>
-                <menu-item title='Speaking Post-Test' action='speak.o.1'/>
-                <menu-item title='Writing Post-Test' action='write.o.1'/>
-            </menu>
-        </menu-item>
-        
+
         <menu-item title='Mini-Tests' action='menu'>
             <menu title='Mini-Tests Menu' color='foreground' width='450' height='29' gap='8' toolbar='branch'>
                 <menu-item title='Mini-Test 1' action='menu'>
@@ -966,12 +958,6 @@
         </skills>
     </skillmap>
     <tests>
-                
-        <read.r.1 title='Reading Pre-Test' alias='ARR01' count='20'/>
-        <listen.r.1 title='Listening Pre-Test' alias='ARL01' count='13'/>
-        <speak.r.1 title='Speaking Pre-Test' alias='ARS01' count='13'/>
-        <write.r.1 title='Writing Pre-Test' alias='ARW01' count='13'/>
-    
         <read.1.1 title='Skills - Vocabulary and Reference - Passage 1' alias='ASR01' count='13'/>
         <read.1.2 title='Skills - Vocabulary and Reference - Passage 2' alias='ASR02' count='13'/>
         <read.1.3 title='Skills - Vocabulary and Reference - Passage 3' alias='ASR03' count='13'/>
@@ -1032,12 +1018,7 @@
         <write.2.1 title='Skills- Independent Tasks - Task 1' alias='ASW04' count='17'/>
         <write.2.2 title='Skills- Independent Tasks - Task 2' alias='ASW05' count='17'/>
         <write.2.3 title='Skills- Independent Tasks - Task 3' alias='ASW06' count='4'/>
-
-        <read.o.1 title='Reading Post-Test' alias='AOR01' count='20'/>
-        <listen.o.1 title='Listening Post-Test' alias='AOL01' count='13'/>
-        <speak.o.1 title='Speaking Post-Test' alias='AOS01' count='13'/>
-        <write.o.1 title='Writing Post-Test' alias='AOW01' count='13'/>
-        
+            
         <read.m.1 title='Mini-Test 1' alias='AMR01' count='13'/>
         <listen.m.1 title='Mini-Test 1' alias='AML01,AML09' count='11'/>
         <speak.m.1 title='Mini-Test 1' alias='AMS01,AMS02,AMS03' count='3'/>
