@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ASL10.mp3' script-file='ASL10P0.xml'>
+
+    <question type='multichoice' script-file='ASL10P1.xml' skills='1'>
+        <question-text audio-file='ASL10Q1.mp3'>1. Why does the student go to see the professor?</question-text>
+        <answer-list>
+            <answer-text>To take a test he has missed</answer-text>
+            <answer-text>To get permission to write about a particular topic</answer-text>
+            <answer-text>To ask a question about material from the course text</answer-text>
+            <answer-text>To ask why certain material has been assigned</answer-text>
+        </answer-list>
+        <key>3</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL10P2.xml' skills='1'>
+        <question-text audio-file='ASL10Q2.mp3'>2. What is the topic of the paper he wants to write?</question-text>
+        <answer-list>
+            <answer-text>The use of stars in navigation</answer-text>
+            <answer-text>Various positions in the Roman military</answer-text>
+            <answer-text>The importance of astronomy in ancient Rome</answer-text>
+            <answer-text>A method of determining the roles for certain soldiers</answer-text>
+        </answer-list>
+        <key>1</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL10P3.xml' skills='2'>
+        <question-text audio-file='ASL10Q3.mp3'>3. Why were Roman soldiers asked to count the stars in the Big Dipper?</question-text>
+        <answer-list>
+            <answer-text>To determine if they could use the stars to navigate</answer-text>
+            <answer-text>To determine if they were knowledgeable about constellations</answer-text>
+            <answer-text>To determine if they could see well at long distances</answer-text>
+            <answer-text>To determine if they could count</answer-text>
+        </answer-list>
+        <key>2</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL10P4.xml' skills='2'>
+        <question-text audio-file='ASL10Q4.mp3'>4. Which of the following is NOT true?</question-text>
+        <answer-list>
+            <answer-text>The Big Dipper is part of a binary star.</answer-text>
+            <answer-text>Mizar is part of the Big Dipper.</answer-text>
+            <answer-text>Alcor is part of a binary star.</answer-text>
+            <answer-text>The Big Dipper contains a number of stars.</answer-text>
+        </answer-list>
+        <key>4</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='check.1' script-file='ASL10P5.xml' skills='2'>
+        <question-text audio-file='ASL10Q5.mp3'>5. What two statements describe possible outcomes from the Roman eyesight test?</question-text>
+        <answer-list>
+            <answer-text>A soldier would fight as an archer.</answer-text>
+            <answer-text>A soldier would fight on horseback.</answer-text>
+            <answer-text>A soldier would become an officer.</answer-text>
+            <answer-text>A soldier would fight on the front lines.</answer-text>
+        </answer-list>
+        <key>1001</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL10P6.xml' skills='2'>
+        <question-text audio-file='ASL10Q6.mp3'>6. How does the term "survival of the fittest" relate to the test that the student describes?</question-text>
+        <answer-list>
+            <answer-text>The soldiers in the best physical shape tended to survive in battles.</answer-text>
+            <answer-text>The soldiers with better eyesight would fight from less dangerous positions.</answer-text>
+            <answer-text>The fittest Romans were not in the military and therefore tended to survive.</answer-text>
+            <answer-text>Those who could not see Alcor did not survive the Roman military tests.</answer-text>
+        </answer-list>
+        <key>2</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+    
+    <question type='check.1' script-file='ASL10P7.xml' skills='2'>
+        <question-text audio-file='ASL10Q7.mp3'>7. What does the professor finally decide?</question-text>
+        <answer-list>
+            <answer-text>That the topic is not related to anthropology</answer-text>
+            <answer-text>That the student should not use the topic for his paper</answer-text>
+            <answer-text>That the student should concentrate on the concept of survival of the fittest</answer-text>
+            <answer-text>That it is possible to use this topic for the paper</answer-text>
+        </answer-list>
+        <key>0011</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+</question-list>

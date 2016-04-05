@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='ASL2.mp3' script-file='ASL14P0.xml'>
+
+    <question type='multichoice' script-file='ASL14P1.xml' skills='1'>
+        <question-text audio-file='ASL14Q1.mp3'>1. Why is the professor discussing leaf arrangements with the students?</question-text>
+        <answer-list>
+            <answer-text>To prepare them for an assignment</answer-text>
+            <answer-text>To prepare them for an exam</answer-text>
+            <answer-text>To review a completed assignment</answer-text>
+            <answer-text>To review an exam that was given</answer-text>
+        </answer-list>
+        <key>1</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='check.1' script-file='ASL14P2.xml' skills='1'>
+        <question-text audio-file='ASL14Q2.mp3'>2. What points does the professor want to make about leaf arrangements on plants?</question-text>
+        <answer-list>
+            <answer-text>Leaves always appear in even-numbered patterns.</answer-text>
+            <answer-text>Leaf arrangements are generally quite orderly.</answer-text>
+            <answer-text>Leaves tend to be arranged far away from nodes.</answer-text>
+            <answer-text>Leaves tend to be arranged in ways that maximize the light that reaches them.</answer-text>
+        </answer-list>
+        <key>0101</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='check.2' script-file='ASL14P3.xml' skills='5'>
+        <question-text audio-file='ASL14Q3.mp3'>3. With what type of leaf arrangements are these node patterns associated?</question-text>
+        <answer-list>
+            <answer-text>One leaf per node</answer-text>
+            <answer-text>Two leaves per node</answer-text>
+            <answer-text>Three leaves per node</answer-text>
+        </answer-list>
+        <choice-list width='80'>
+            <choice-text>Opposite</choice-text>
+            <choice-text>Alternate</choice-text>
+            <choice-text>Whorled</choice-text>
+        </choice-list>
+        <key>213</key>    
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='check.2' script-file='ASL14P4.xml' skills='4'>
+        <question-text audio-file='ASL14Q4.mp3'>4. How common are these types of leaf arrangements?</question-text>
+        <answer-list>
+            <answer-text>Least common</answer-text>
+            <answer-text>Neither most nor least common</answer-text>
+            <answer-text>Most common</answer-text>
+        </answer-list>
+        <choice-list width='80'>
+            <choice-text>Opposite</choice-text>
+            <choice-text>Alternate</choice-text>
+            <choice-text>Whorled</choice-text>
+        </choice-list>
+        <key>312</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='check.1' script-file='ASL14P5.xml' skills='2'>
+        <question-text audio-file='ASL14Q5.mp3'>5. What does the professor say about the botanical garden?</question-text>
+        <answer-list>
+            <answer-text>It belongs to the university.</answer-text>
+            <answer-text>It has quite a limited number of plants.</answer-text>
+            <answer-text>The plants in it are not labeled.</answer-text>
+            <answer-text>It has examples of all three leaf structures.</answer-text>
+        </answer-list>
+        <key>1001</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL14P6.xml' skills='3'>
+        <question-text replay-before-graphic='ASL14G2.jpg' replay-before='ASL14Q6B.mp3' audio-file='ASL14Q6.mp3' replay-after='ASL14Q6A.mp3'>6. What does the professor mean when he says this:</question-text>
+        <answer-list>
+            <answer-text>"Class is not over yet."</answer-text>
+            <answer-text>"I have something more to say."</answer-text>
+            <answer-text>"You need to be careful."</answer-text>
+            <answer-text>"Please help me out with this."</answer-text>
+        </answer-list>
+        <key>2</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+ 
+</question-list>

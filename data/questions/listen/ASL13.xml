@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='ASL3.mp3' script-file='ASL13P0.xml'>
+
+    <question type='multichoice' script-file='ASL13P1.xml' skills='1'>
+        <question-text audio-file='ASL13Q1.mp3'>1. What does the discussion focus on?</question-text>
+        <answer-list>
+            <answer-text>Historical events at three locations</answer-text>
+            <answer-text>A century-by-century history of an area</answer-text>
+            <answer-text>Various ways the Wright brothers proved influential</answer-text>
+            <answer-text>Three different study questions</answer-text>
+        </answer-list>
+        <key>1</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL13P2.xml' skills='5'>
+        <question-text audio-file='ASL13Q2.mp3'>2. How are the locations presented?</question-text>
+        <answer-list>
+            <answer-text>In spatial order from south to north</answer-text>
+            <answer-text>In order of importance</answer-text>
+            <answer-text>In the order suggested by the professor</answer-text>
+            <answer-text>In chronological order</answer-text>
+        </answer-list>
+        <key>4</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='check.2' script-file='ASL13P3.xml' skills='5'>
+        <question-text audio-file='ASL13Q3.mp3'>3. When did these people live?</question-text>
+        <answer-list>
+            <answer-text>Blackbeard</answer-text>
+            <answer-text>Wright brothers</answer-text>
+            <answer-text>Lost colonists</answer-text>
+        </answer-list>
+        <choice-list width='120'>
+            <choice-text>16th century</choice-text>
+            <choice-text>18th century</choice-text>
+            <choice-text>20th century</choice-text>
+        </choice-list>
+        <key>231</key>    
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='check.2' script-file='ASL13P4.xml' skills='5'>
+        <question-text audio-file='ASL13Q4.mp3'>4. With what people are these locations associated?</question-text>
+        <answer-list>
+            <answer-text>Roanoke Island</answer-text>
+            <answer-text>Ocracoke Island</answer-text>
+            <answer-text>Kitty Hawk</answer-text>
+        </answer-list>
+        <choice-list width='120'>
+            <choice-text>Blackbeard</choice-text>
+            <choice-text>Wright brothers</choice-text>
+            <choice-text>Lost colonists</choice-text>
+        </choice-list>
+        <key>312</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='check.2' script-file='ASL13P5.xml' skills='5'>
+        <question-text audio-file='ASL13Q5.mp3'>5. Do the students discuss these places?</question-text>
+        <answer-list>
+            <answer-text>A place where a ship was lost</answer-text>
+            <answer-text>A place where a colony was established</answer-text>
+            <answer-text>A place used as a pirate's hideout</answer-text>
+            <answer-text>A place that was attacked by pirates</answer-text>
+            <answer-text>A place where there is an airport</answer-text>
+            <answer-text>A place where an event in aviation history took place</answer-text>            
+        </answer-list>
+        <choice-list width='60'>
+            <choice-text>Yes</choice-text>
+            <choice-text>No</choice-text>
+        </choice-list>
+        <key>211221</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL13P6.xml' skills='6'>
+        <question-text audio-file='ASL13Q6.mp3'>6. What can be inferred from the passage about the events selected by the students?</question-text>
+        <answer-list>
+            <answer-text>They all involved famous people.</answer-text>
+            <answer-text>They were not all positive events.</answer-text>
+            <answer-text>They all took place within the last century.</answer-text>
+            <answer-text>They all occurred in different states.</answer-text>
+        </answer-list>
+        <key>2</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+    
+    <question type='multichoice' script-file='ASL13P7.xml' skills='6'>
+        <question-text audio-file='ASL13Q7.mp3'>7. What will the students most likely do next?</question-text>
+        <answer-list>
+            <answer-text>Visit the Outer Banks</answer-text>
+            <answer-text>Take the history exam</answer-text>
+            <answer-text>Finish the last question</answer-text>
+            <answer-text>Discuss the Outer Banks further</answer-text>
+        </answer-list>
+        <key>3</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+</question-list>

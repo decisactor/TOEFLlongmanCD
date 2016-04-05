@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='ASL2.mp3' script-file='ASL12P0.xml'>
+
+    <question type='multichoice' script-file='ASL12P1.xml' skills='3'>
+        <question-text replay-before-graphic='ASL12G2.jpg' replay-before='ASL12Q1B.mp3' audio-file='ASL12Q1.mp3' replay-after='ASL12Q1A.mp3'>1. What does the professor mean when he says this:</question-text>
+        <answer-list>
+            <answer-text>The students are late to class.</answer-text>
+            <answer-text>The students are quite calm.</answer-text>
+            <answer-text>The students must stay after class.</answer-text>
+            <answer-text>The students are too noisy.</answer-text>
+        </answer-list>
+        <key>4</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL12P2.xml' skills='1'>
+        <question-text audio-file='ASL12Q2.mp3'>2. What is the topic of the talk?</question-text>
+        <answer-list>
+            <answer-text>Why the groundhog hibernates</answer-text>
+            <answer-text>Which folktales relate to hibernation</answer-text>
+            <answer-text>How various animals hibernate</answer-text>
+            <answer-text>Where animals hibernate</answer-text>
+        </answer-list>
+        <key>3</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL12P3.xml' skills='2'>
+        <question-text audio-file='ASL12Q3.mp3'>3. What is NOT mentioned by the professor as a way that various types of animals prepare for the cold weather?</question-text>
+        <answer-list>
+            <answer-text>Some build warmer dens or nests.</answer-text>
+            <answer-text>Some head to southern climates.</answer-text>
+            <answer-text>Some increase their activity.</answer-text>
+            <answer-text>Some hibernate, at least partially.</answer-text>
+        </answer-list>
+        <key>1</key>    
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL12P4.xml' skills='4'>
+        <question-text replay-before-graphic='ASL12G2.jpg' replay-before='ASL12Q4B.mp3' audio-file='ASL12Q4.mp3' replay-after='ASL12Q4A.mp3'>4. How does the professor seem to feel about the ability of the groundhog to predict the end of winter when he says this:</question-text>
+        <answer-list>
+            <answer-text>He believes in it.</answer-text>
+            <answer-text>He's shocked by it.</answer-text>
+            <answer-text>He's enthusiastic about it.</answer-text>
+            <answer-text>He's unimpressed by it.</answer-text>
+        </answer-list>
+        <key>4</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL12P5.xml' skills='2'>
+        <question-text audio-file='ASL12Q5.mp3'>5. Which is NOT a good hibernator?</question-text>
+        <answer-list>
+            <answer-text>A groundhog</answer-text>
+            <answer-text>A squirrel</answer-text>
+            <answer-text>A bat</answer-text>
+            <answer-text>A bear</answer-text>
+        </answer-list>
+        <key>4</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL12P6.xml' skills='3'>
+        <question-text replay-before-graphic='ASL12G2.jpg' replay-before='ASL12Q6B.mp3' audio-file='ASL12Q6.mp3' replay-after='ASL12Q6A.mp3'>6. Why does the professor say this:</question-text>
+        <answer-list>
+            <answer-text>To indicate that Tom should have asked that question earlier</answer-text>
+            <answer-text>To show that hibernation should have been defined earlier</answer-text>
+            <answer-text>To state that the lecture should have been started earlier</answer-text>
+            <answer-text>To indicate that the question had already been answered</answer-text>
+        </answer-list>
+        <key>2</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+    
+    <question type='check.1' script-file='ASL12P2.xml' skills='2'>
+        <question-text audio-file='ASL12Q7.mp3'>7. What happens to body temperature and heart rate during hibernation?</question-text>
+        <answer-list>
+            <answer-text>Body temperature increases.</answer-text>
+            <answer-text>Body temperature decreases.</answer-text>
+            <answer-text>Heart rate increases.</answer-text>
+            <answer-text>Heart rate decreases.</answer-text>
+        </answer-list>
+        <key>0101</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL12P3.xml' skills='2'>
+        <question-text audio-file='ASL12Q8.mp3'>8. What part of the bear most likely warms up first from hibernation?</question-text>
+        <answer-list>
+            <answer-text>The head</answer-text>
+            <answer-text>The paws</answer-text>
+            <answer-text>The chest</answer-text>
+            <answer-text>The tail</answer-text>
+        </answer-list>
+        <key>3</key>    
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+</question-list>

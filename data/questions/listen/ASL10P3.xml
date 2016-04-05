@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<script>
+    <page>
+        <paragraph time='00:00:00' speaker='narrator' graphic-file='ASL10G1.jpg'>Listen to a conversation between a student and a professor.</paragraph>
+    </page>
+    <page>
+        <paragraph time='00:00:12' speaker='student' graphic-file='ASL10G2.jpg'>Thanks for seeing me, Dr. Barton.</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL10G2.jpg'>No problem. It's my office hour. ... What did you want to talk about?</paragraph>
+        <paragraph speaker='student' graphic-file='ASL10G2.jpg'>I wanted to discuss the topic I've chosen for the paper I'm supposed to be writing for your anthropology course. The topic I'm thinking about is a bit unusual.</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL10G2.jpg'>Oh you know, it has to be related to some aspect of anthropology that we're studying ... What topic did you have in mind?</paragraph>
+        <paragraph speaker='student' graphic-file='ASL10G2.jpg'>I wanted to write about a test used by the Roman military to test soldiers' eyesight.</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL10G2.jpg'>Hmm ... an eyesight test used by the Roman military? Are you sure this is related to our anthropology class? ... Well, tell me about it. ... What is this eyesight test that the Roman military used?</paragraph>
+        <paragraph speaker='student' graphic-file='ASL10G2.jpg'>Well, it was a test that the Romans used to determine if their soldiers would fight as foot soldiers on the front lines or as archers behind the front lines. Roman soldiers were required to undergo certain tests to determine their ability to perform as soldiers. One of these tests was simply to count the stars in the constellation the Big Dipper. This test determined the acuity of their vision. See. Look at this picture of the Big Dipper.</paragraph>
+    </page>
+    <page>
+        <paragraph time='00:01:33' speaker='student' graphic-file='ASL10G3.jpg'>You can see the seven stars in the Big Dipper. The star at the bend of the handle of the Big Dipper is called Mizar, and Mizar is a binary star. If you look closely, there's a second star called Alcor next to Mizar. If a Roman soldier's eyesight was good enough to see Alcor, he could fight as an archer. If he couldn't see Alcor, he had to fight on the front lines as a foot soldier</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL10G3.jpg'>So this eye test was based on the ability of the soldier to see Alcor next to Mizar.</paragraph>
+        <paragraph speaker='student' graphic-file='ASL10G3.jpg'>Yes, exactly.</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL10G23.jpg'>Well, that's a very interesting test, but I'm not sure that it's related to the material in our anthropology class. Well, let's put it this way ... how would you relate this to the material in the anthropology course?</paragraph>
+        <paragraph speaker='student' graphic-file='ASL10G3.jpg'>I'd relate it to the idea of "survival of the fittest."</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL10G3.jpg'>Um ... Interesting ... and how would you relate it to this concept? Survival of the fittest has to do with the idea that those who're strongest or have some other physical or mental advantage will be more likely to survive.</paragraph>
+        <paragraph speaker='student' graphic-file='ASL10G3.jpg'>Well, this test for eyesight was used not only by the Romans but also other groups of people for hundreds of years. The interesting point is that m·er time more people have been able to pass the test, and the fact that more people have been able to pass this test over time has been attributed to survival of the fittest. It was certainly true for Roman soldiers that those who passed the test had a better chance of surviving for longer.</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL10G3.jpg'>And why is that? Why did Roman soldiers who passed the test stand a better chance of surviving longer?</paragraph>
+        <paragraph speaker='student' graphic-file='ASL10G3.jpg'>Well, soldiers with better eyesight weren't on the front lines. Those With worse eyesight were sent to the front lines and, more often than not, were killed on the front lines. Archers stood a better chance of survival and were around to father children, who would also tend to have better eyesight than those who failed the test. This is what supports the concept of sunival of the fittest.</paragraph>
+    </page>
+    <page>
+        <paragraph time='00:03:50' speaker='professor' graphic-file='ASL10G2.jpg'>Hmm. That's an interesting idea. As long as you concentrate on the idea of sunival of the fittest in your paper and use this example of an eye test to support the concept, I think you would have a solid paper.</paragraph>
+        <paragraph speaker='student' graphic-file='ASL10G2.jpg'>That's what I'll do then. Thanks, Dr. Barton.</paragraph>
+    </page>
+</script>
+
+

@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<script>
+    <page>
+        <paragraph time='00:00:00' speaker='narrator' graphic-file='ASL11G1.jpg'>Listen to a discussion in an American history class.</paragraph>
+    </page>
+    <page>
+        <paragraph time='00:00:12' speaker='professor' graphic-file='ASL11G2.jpg'>Today we're going to talk about a coin from early in the history of the United States.It was the first coin issued by the U. S.government, and it was issued soon after the government was established. Do you know when this was? ... Any idea? ... Come on, you must have some idea when this was. Yes, Sam?</paragraph>
+        <paragraph speaker='Sam' graphic-file='ASL11G2.jpg'>Was it in the late 1700s?</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL11G2.jpg'>That's right, Sam. This coin was issued in 1789. It was known by two names; it was known as both the Fugio coin and the Franklin coin. First of all, can you tell me why it was called the Fugio coin? Laura?</paragraph>
+        <paragraph speaker='Laura' graphic-file='ASL11G2.jpg'>It was called the Fugio coin because it had the word fugio on the front of the coin. Fugio is a Latin word that means "I fly."</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL11G2.jpg'>That's right, Laura. And this coin was also called the Franklin coin. Why was it called the Franklin coin? It was because Benjamin Franklin was on it, wasn't it?</paragraph>
+        <paragraph speaker='Doug' graphic-file='ASL11G2.jpg'>No, it was called the Franklin coin because Franklin was given credit for the wording on the coin.</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL11G2.jpg'>That's right.</paragraph>
+    </page>
+    <page>
+        <paragraph time='00:01:23' speaker='professor' graphic-file='ASL11G3.jpg'>Now, this is the coin we're talking about. Let's look at the front of the coin. Can you describe the front for me? Sam</paragraph>
+        <paragraph speaker='Sam' graphic-file='ASL11G3.jpg'>The front of the coin has a sundial in the middle with a sun shining down on the sundial.</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL11G23.jpg'>Yes, both a sun and a sundial are there. And what else?</paragraph>
+        <paragraph speaker='Sam' graphic-file='ASL11G3.jpg'>Well, ... uh ... there's a date along one side and ... um, ... there seems to be some wording at the bottom.</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL11G3.jpg'>Sam needs some help.Who can help Sam answer the question? Yes, Doug?</paragraph>
+        <paragraph speaker='Doug' graphic-file='ASL11G3.jpg'>The wording along the bottom is "mind your business." This coin's called the Franklin coin because Benjamin Franklin was given credit for the wording.</paragraph>
+    </page>
+    <page>
+        <paragraph time='00:02:07' speaker='professor' graphic-file='ASL11G4.jpg'>Now let's talk about the other side of the coin. Let me describe the front of the coin for you. Oh, ... excuse me, ... did I say front? I meant back. On the back of the coin, there's a large circle made up of 13 linked circles, and in the middle of the circle are the words "We are one." Do you understand what these words mean?</paragraph>
+        <paragraph speaker='Laura' graphic-file='ASL11G4.jpg'>I think so, particularly with the words "We are one." This design on the back of the coin symbolizes the 13 original colonies linked into one countrv.</paragraph>
+        <paragraph speaker='professor' graphic-file='ASL11G4.jpg'>That's a very appropriate idea for the first coin issued by the United States after the country won its independence.</paragraph>
+    </page>
+    <page>    
+        <paragraph time='00:02:51' speaker='professor' graphic-file='ASL11G2.jpg'>Now, that's all for today. However, I'd like to suggest that some of you might want to be somewhat more prepared for the next class. And just to check on whether or not you're prepared, there just might be a quiz.</paragraph>
+    </page>
+</script>
+
+

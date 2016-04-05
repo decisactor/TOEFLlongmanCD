@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<script>
+    <page>
+        <paragraph time='00:00:00' speaker='narrator' graphic-file='ASL13G1.jpg'>Listen to a discussion by a group of students taking a course in American literature.</paragraph>
+    </page>
+    <page>
+        <paragraph time='00:00:12' speaker='woman 1' graphic-file='ASL13G2.jpg'>We certainly have a lot of study questions to review for our history exam.</paragraph>
+        <paragraph speaker='man' graphic-file='ASL13G2.jpg'>Yes, we do, but we're almost finished. We only have two more questions to go.</paragraph>
+        <paragraph speaker='woman 2' graphic-file='ASL13G2.jpg'>Only two more questions? That's great. Let's get going on them, and we'll be finished preparing for this exam.... Now, what's the next question on the study list?</paragraph>
+        <paragraph speaker='woman 1' graphic-file='ASL13G2.jpg'>The next question on the study list asks about famous historical places on the Outer Banks.</paragraph>
+        <paragraph speaker='woman 2' graphic-file='ASL13G2.jpg'>The Outer Banks? Where're the Outer Banks?</paragraph>
+    </page>
+    <page>
+        <paragraph time='00:00:47' speaker='man' graphic-file='ASL13G3.jpg'>Look at the map in the book. The Outer Banks are a series of islands stretching along the coast of North Carolina</paragraph>
+        <paragraph speaker='woman 1' graphic-file='ASL13G3.jpg'>Now, the question asks about famous historical places on the Outer Banks. Can you come up with any?</paragraph>
+        <paragraph speaker='man' graphic-file='ASL13G3.jpg'>Um, let's see. There's the Lost Colony on Roanoke.</paragraph>
+        <paragraph speaker='woman 1' graphic-file='ASL13G3.jpg'>Can you see Roanoke Island on the map? That was where the Lost Colony was located.</paragraph>
+        <paragraph speaker='woman 2' graphic-file='ASL13G3.jpg'>Wait a minute. The Lost Colony? What was the Lost Colony?</paragraph>
+        <paragraph speaker='man' graphic-file='ASL13G3.jpg'>The Lost Colony was the group of settlers from England that landed on Roanoke Island in 1587. When a supply ship returned there three years later, the colonists had disappeared. To this day, no one knows what happened to them.</paragraph>
+        <paragraph speaker='woman 1' graphic-file='ASL13G3.jpg'>OK, I think Roanoke Island is one good answer to a question about famous historical places on the Outer Banks. Now, what about Ocracoke Island? Isn't Ocracoke Island famous for something?</paragraph>
+        <paragraph speaker='woman 2' graphic-file='ASL13G3.jpg'>All I know about Ocracoke Island is that it's where Blackbeard had his hideout.</paragraph>
+        <paragraph speaker='man' graphic-file='ASL13G3.jpg'>Blackbeard, the pirate?</paragraph>
+        <paragraph speaker='woman 2' graphic-file='ASL13G3.jpg'>Yes. Blackbeard had his hideout on Ocracoke Island, early in the eighteenth century. He used to move up and down the coast from his hideout on Ocracoke and attack ships and steal their goods.</paragraph>
+        <paragraph speaker='woman 1' graphic-file='ASL13G3.jpg'>OK, so we've got historical places on Roanoke Island and Ocracoke Island for answers to the question. Can you come up with any other historical places on the Outer Banks?</paragraph>
+        <paragraph speaker='man' graphic-file='ASL13G3.jpg'>What about the Wright Brothers? Didn't they make their flights on the Outer Banks?</paragraph>
+        <paragraph speaker='woman 2' graphic-file='ASL13G3.jpg'>Yes, it was at Kill Devil Hills, outside of Kitty Hawk, that the Wright Brothers made their flights.</paragraph>
+        <paragraph speaker='man' graphic-file='ASL13G3.jpg'>On December 7, 1903, they managed to get a power-driven plane in the air, for just a short time.But the plane was flying.</paragraph>
+        <paragraph speaker='woman 2' graphic-file='ASL13G3.jpg'>Their first flight was only 12 seconds long. They tried four flights on the same day, and by the end of the day, they got the plane to stay up for 59 seconds, almost a full minute.</paragraph>
+    </page>
+    <page>
+        <paragraph time='00:03:00' speaker='woman 1' graphic-file='ASL13G2.jpg'>OK.I think we have enough information to answer that question. We've got historical places on Roanoke Island, Ocracoke Island, and Kitty Hawk</paragraph>
+        <paragraph speaker='man' graphic-file='ASL13G2.jpg'>I agree. Why don't we leave the question on the Outer Banks and move on?</paragraph>
+        <paragraph speaker='woman 2' graphic-file='ASL13G2.jpg'>Good idea. Only one more to go. We're almost there.</paragraph>
+    </page>
+</script>
+

@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='ASL11.mp3' script-file='ASL11P0.xml'>
+
+    <question type='multichoice' script-file='ASL11P1.xml' skills='4'>
+        <question-text replay-before-graphic='ASL11G2.jpg' replay-before='ASL11Q1B.mp3' audio-file='ASL11Q1.mp3' replay-after='ASL11Q1A.mp3'>1. How does the professor seem to feel when she says this:</question-text>
+        <answer-list>
+            <answer-text>Satisfied</answer-text>
+            <answer-text>Curious</answer-text>
+            <answer-text>Tired</answer-text>
+            <answer-text>Frustrated</answer-text>
+        </answer-list>
+        <key>4</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL11P2.xml' skills='3'>
+        <question-text replay-before-graphic='ASL11G2.jpg' replay-before='ASL11Q2B.mp3' audio-file='ASL11Q2.mp3'  replay-after='ASL11Q2A.mp3'>2. Why does the professor say this:</question-text>
+        <answer-list>
+            <answer-text>Because she wants the students to disagree with her</answer-text>
+            <answer-text>Because she is trying to confuse the students</answer-text>
+            <answer-text>Because she thinks that the students do not know the answer</answer-text>
+            <answer-text>Because she believes that this information is correct</answer-text>
+        </answer-list>
+        <key>1</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL11P3.xml' skills='3'>
+        <question-text replay-before-graphic='ASL11G2.jpg' replay-before='ASL11Q3B.mp3' audio-file='ASL11Q3.mp3' replay-after='ASL11Q3A.mp3'>3. Why does the professor say this:</question-text>
+        <answer-list>
+            <answer-text>She is feeling sorry for Sam.</answer-text>
+            <answer-text>Sam does not seem to know the answer.</answer-text>
+            <answer-text>Sam's classmates should try to be more helpful.</answer-text>
+            <answer-text>She thinks Sam has done enough, and she wants to give someone else a chance.</answer-text>
+        </answer-list>
+        <key>2</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL11P4.xml' skills='3'>
+        <question-text replay-before-graphic='ASL11G2.jpg' replay-before='ASL11Q4B.mp3' audio-file='ASL11Q4.mp3' replay-after='ASL11Q4A.mp3'>4. Why does the professor say this:</question-text>
+        <answer-list>
+            <answer-text>To show that she is uncertain</answer-text>
+            <answer-text>To change the subject</answer-text>
+            <answer-text>To suggest that she forgot what she said</answer-text>
+            <answer-text>To correct herself</answer-text>
+        </answer-list>
+        <key>4</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL11P5.xml' skills='3'>
+        <question-text replay-before-graphic='ASL11G2.jpg' replay-before='ASL11Q5B.mp3' audio-file='ASL11Q5.mp3' replay-after='ASL11Q4A.mp3'>5. How does the professor seem to feel when she says this:</question-text>
+        <answer-list>
+            <answer-text>It was good that the young country issued coins.</answer-text>
+            <answer-text>These words represent the unity of the young country.</answer-text>
+            <answer-text>The first coin was really the only one the country needed.</answer-text>
+            <answer-text>The first coin played an important role in unifying the colonies.</answer-text>
+        </answer-list>
+        <key>2</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+
+    <question type='multichoice' script-file='ASL11P6.xml' skills='6'>
+        <question-text replay-before-graphic='ASL11G2.jpg' replay-before='ASL11Q6B.mp3' audio-file='ASL11Q6.mp3'>6. What might the professor say?</question-text>
+        <answer-list>
+            <answer-text>"Better preparation is important."</answer-text>
+            <answer-text>"Quizzes are an important part of this class."</answer-text>
+            <answer-text>"It's easier to give quizzes than to lecture."</answer-text>
+            <answer-text>"You're obviously quite prepared for the qufz."</answer-text>
+        </answer-list>
+        <key>1</key>
+        <explain-text>
+            <exp></exp>
+        </explain-text>
+    </question>
+</question-list>
